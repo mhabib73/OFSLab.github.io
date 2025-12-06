@@ -45,7 +45,7 @@ design:
   view: masonry
   card:
     image:
-      height: 150
+      height: 100
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
