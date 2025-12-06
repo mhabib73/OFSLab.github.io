@@ -11,27 +11,12 @@ headless: true
 weight: 100
 
 
-content:
-  text: |
-    <p style="color:white; font-size:1.6rem;">OFSLab explores state-of-the-art optical fiber work.</p>
-
-design:
-  background:
-    color: "#0A3452"
-    # Or use an image instead:
-    # image:
-    #   filename: bg.jpg
-    #   position: center
-    #   size: cover
-  spacing:
-    padding: ["1rem", 0, "1rem", 0]
-
-
-
 title: '<div style="grid-column:1 / -1; text-align:center; font-size:2rem; margin-top:20px; margin-bottom:20px;">Research areas</div>'
 subtitle: ''
 
 content:
+  text: |
+    <p style="color:white; font-size:1.6rem;">OFSLab explores state-of-the-art optical fiber work.</p>
   # Page type to display. E.g. project.
   page_type: project
 
