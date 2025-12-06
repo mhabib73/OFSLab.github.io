@@ -1,5 +1,5 @@
 ---
-title: Advanced optical fiber characterization & fabrication
+title: Advanced fiber characterization & fabrication
 summary: "Optical fiber fabrication involves the precise creation of glass fibers that guide light with minimal loss. Using advanced techniques such as chemical vapor deposition and fiber drawing, high-purity silica preforms are heated and stretched into thin, flexible fibers that form the backbone of modern communication, sensing, and photonic technologies."
 date: 2025-10-21
 #links:
