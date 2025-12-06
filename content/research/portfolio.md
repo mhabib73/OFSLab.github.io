@@ -15,8 +15,6 @@ title: '<div style="grid-column:1 / -1; text-align:center; font-size:2rem; margi
 subtitle: ''
 
 content:
-  text: |
-    <p style="color:white; font-size:1.6rem;">OFSLab explores state-of-the-art optical fiber work.</p>
   # Page type to display. E.g. project.
   page_type: project
 
