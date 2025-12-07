@@ -18,9 +18,6 @@ spacing:
   padding: [40, 0, 20, 0]
 
 
-title: '<div style="grid-column:1 / -1; text-align:center; font-size:2rem; margin-top:20px; margin-bottom:20px;">Research areas</div>'
-subtitle: ''
-
 content:
   # Page type to display. E.g. project.
   page_type: project
