@@ -10,13 +10,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-section:
-  title: "Section heading"     # <--- heading BEFORE Research areas
-  subtitle: ""
-  background:
-    color: "#eef0ff"
-  spacing:
-    padding: [40, 0, 20, 0]
+title: "Section heading"     # <--- heading BEFORE Research areas
+subtitle: ""
+background:
+  color: "#eef0ff"
+spacing:
+  padding: [40, 0, 20, 0]
 
 
 title: '<div style="grid-column:1 / -1; text-align:center; font-size:2rem; margin-top:20px; margin-bottom:20px;">Research areas</div>'
