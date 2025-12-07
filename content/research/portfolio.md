@@ -15,8 +15,6 @@ section:
   subtitle: ""
   background:
     color: "#eef0ff"
-  spacing:
-    padding: [40, 0, 20, 0]
 
 content:
   # Page type to display. E.g. project.
