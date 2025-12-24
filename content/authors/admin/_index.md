@@ -142,7 +142,7 @@ user_groups:
   - Principal Investigator
 ---
 
-Dr. Habib is the head of Microstructure Optical Fiber Lab (MOFLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
+Dr. Habib is the head of Optical Fiber Science Lab (OFSLab), where he leads cutting-edge research and innovation on next-generation optical fibers for photonics based applications.
 
 Dr. Habib received the Ph.D. degree in Electrical and Photonics engineering from the Technical University of Denmark (DTU) in 2017. Following the completion of his doctoral studies, he joined the Fibers Sensors and Supercontinuum Group at the Department of Electrical and Photonics Engineering, DTU, as a Postdoctoral Researcher. After concluding his Postdoctoral Fellowship at DTU, he served as a Postdoctoral Research Associate at CREOL, The College of Optics and Photonics, University of Central Florida, USA, from 2017 to 2019. From 2019 to 2023, Dr. Habib held the position of Assistant Professor of Electrical and Computer Engineering at Florida Polytechnic University, USA. Currently, he is an Assistant Professor of Electrical Engineering at Florida Institute of Technology. His research mainly focuses on computational electromagnetics, emerging optical fiber design, fabrication, and characterization, and ultrafast nonlinear optics. He has published more than 150 articles in refereed journals and conference proceedings [GoogleScholar](https://scholar.google.com/citations?user=rkzjCbMAAAAJ&hl=en). 
 
