@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Daniel Arana
+title: Ben Stompor
 
 # Full name (for SEO)
-first_name: Daniel
-last_name: Arana
+first_name: Ben
+last_name: Stompor
 
 # Username (this should match the folder name)
 authors:
-  - Daniel
+  - Ben
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
