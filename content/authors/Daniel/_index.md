@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational phootnics.
+bio: My research interests include computational photonics.
 
 interests:
   - Hollow-core fibers
