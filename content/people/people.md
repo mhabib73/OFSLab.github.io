@@ -23,6 +23,7 @@ content:
     - Research Fellows
     - PhD Students
     - Graduate Students
+    - Undergraduate Students
     - Affiliated Members
     - Visitors
     - Alumni
