@@ -41,7 +41,7 @@ sections:
     content:
       title: |
       image:
-        filename: HCARF_12tube_trans.gif
+        filename: modes.gif
       text: |
         <div style="text-align: left; max-width: 1500px; margin: 0 auto;">
           <strong >What we do in our lab:</strong>
