@@ -12,7 +12,7 @@ sections:
   - block: markdown
     content:
       title: |
-        <span style="font-size: 3rem; color: blue; white-space: nowrap; text-align: left; display: block;">
+        <span style="font-size: 3rem; color: magenta; white-space: nowrap; text-align: left; display: block;">
         Welcome to the Optical Fiber Science Lab </span>
       
       text: |
@@ -24,7 +24,7 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: "linear-gradient(90deg, #1e3c72, #2a5298, #6dd5fa)"
+        color: ""
         image:
           filename: fiber_3D_final.png
           filters:
