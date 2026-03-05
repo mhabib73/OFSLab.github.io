@@ -24,7 +24,7 @@ sections:
         horizontal: center
         vertical: middle
       background:
-        color: ""
+        color: "linear-gradient(90deg, #1e3c72, #2a5298, #6dd5fa)"
         image:
           filename: fiber_3D_final.png
           filters:
