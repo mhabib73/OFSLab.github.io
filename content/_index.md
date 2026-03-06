@@ -12,7 +12,7 @@ sections:
   - block: markdown
     content:
       title: |
-        <span style="font-size: 3rem; color: #6341D9; white-space: nowrap; text-align: left; display: block;">
+        <span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
         Welcome to the Optical Fiber Science Lab </span>
       
       text: |
