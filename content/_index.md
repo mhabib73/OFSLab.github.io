@@ -9,6 +9,22 @@ type: landing # if you want to control _index.md
 
 sections:
 
+  - block: hero
+    content:
+      title: |
+      image:
+        filename: modes.gif
+    design:
+      css_class: "custom-hero-size"
+      background:
+        color: ""
+      columns: '1'
+      text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
+
   - block: markdown
     content:
       title: |
