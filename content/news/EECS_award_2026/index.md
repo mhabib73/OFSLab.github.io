@@ -1,5 +1,5 @@
 ---
-title: Dr. Habib received EECS Faculty Excellence Award for Research
+title: Dr. Habib received 2026 EECS Faculty Excellence Award for Research
 date: 2026-02-26
 image:
   focal_point: 'top'
