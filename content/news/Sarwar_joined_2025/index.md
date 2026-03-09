@@ -13,6 +13,6 @@ projects:
 - Sensor
 ---
 
-Welcome to our new PhD student Md Sarwar Hosen, who will joining in Fall 2026. Sarwar will be working on hollow-core fiber sensors and hollow-core fiber modeling and characterization. 
+Welcome to our new PhD student Md Sarwar Hosen. Sarwar will join in Fall 2026, who will be working on hollow-core fiber sensors and hollow-core fiber modeling and characterization. 
 
 <!--more-->
