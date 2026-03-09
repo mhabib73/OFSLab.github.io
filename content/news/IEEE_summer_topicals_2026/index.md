@@ -13,6 +13,8 @@ projects:
 - UNO
 ---
 
-Dr. Habib has been invited to give a talk at the IEEE Summer Topticals. Date: 13-15 July, 2026, Tulum, Mexico.
+Dr. Habib has been invited to give a talk on HABANERO – Revolutionizing the Future of Optics with Hollow Core Fiberat the IEEE Summer Topticals. Date: 13-15 July, 2026, Tulum, Mexico.
+You can click [here](https://www.ieee-sum.org/program/invited-speakers/) to know about the invited talk.
+
 
 <!--more-->
