@@ -26,7 +26,7 @@ sections:
       background:
         color: ""
         image:
-          filename: fiber_3D_final_v1.png
+          filename: fiber_3D_final_v2.png
           filters:
             brightness: 1
           position: center
