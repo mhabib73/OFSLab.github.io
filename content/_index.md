@@ -26,7 +26,7 @@ sections:
       background:
         color: ""
         image:
-          filename: fiber_3D_final_v2.png
+          filename: modes.gif
           filters:
             brightness: 1
           position: center
