@@ -1,6 +1,6 @@
 ---
-title: Invited speaker at the Optical Fiber Communication Confernece (OFC)
-date: 2025-03-15
+title: OFC invited presentation 
+date: 2026-03-15
 
 tags:
   - Hollow-core fibers
