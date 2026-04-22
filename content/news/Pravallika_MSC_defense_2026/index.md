@@ -1,6 +1,6 @@
 ---
 title: Pravallika defended MSc thesis
-date: 2026--4-22
+date: 2026-04-22
 image:
   focal_point: 'top'
 
