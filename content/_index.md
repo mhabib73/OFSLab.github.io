@@ -86,14 +86,71 @@ sections:
       title: |
           
       text: |
-        Funding: 
-        <br>
-        National Aeronautics and Space Administration (NASA)
-        <br>
-        Relativity Networks Inc
-        <br>
-        Florida Tech Provost Seed Grant
-        <br>
+        <style>
+        .funding-logos {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+          gap: 50px;
+          margin-top: 25px;
+        }
+
+        .funding-logos a {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          transition: transform 0.3s ease;
+        }
+
+        .funding-logos a:hover {
+          transform: translateY(-4px);
+        }
+
+        .funding-logos img {
+          height: 85px;
+          max-width: 220px;
+          object-fit: contain;
+          filter: grayscale(100%) brightness(1.1);
+          opacity: 0.9;
+          transition: all 0.3s ease;
+        }
+
+        .funding-logos img:hover {
+          filter: grayscale(0%);
+          opacity: 1;
+        }
+
+        @media (max-width: 768px) {
+          .funding-logos {
+            gap: 25px;
+          }
+
+          .funding-logos img {
+            height: 60px;
+            max-width: 160px;
+          }
+        }
+        </style>
+
+        <div style="text-align: center;">
+          <h2 style="
+            margin-bottom: 15px;
+            font-size: 2rem;
+            font-weight: 700;
+          ">
+            Funding
+          </h2>
+
+          <div class="funding-logos">
+
+            <a href="https://www.nasa.gov/" target="_blank">
+              <img src="/media/NASA_logo.png" alt="NASA">
+            </a>
+
+          </div>
+        </div>
+
     design:
       css_class: hbx-bg-gradient
       no_padding: true
