@@ -81,6 +81,17 @@ sections:
         <br><br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
         <br>
+  - block: markdown
+    content:
+      title: |
+          
+      text: |
+        Funding: National Aeronautics and Space Administration (NASA) 
+        <br><br>
+        Relativity Networks Inc
+        <br><br>
+        Florida Tech Provost Seed Grant
+        <br>
     design:
       css_class: hbx-bg-gradient
       no_padding: true
