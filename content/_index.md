@@ -83,46 +83,11 @@ sections:
         <br>
   - block: markdown
     content:
-      title: |
-          
+      title: "Funding"
+
       text: |
-        <style>
-        .funding-logos {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          flex-wrap: wrap;
-          gap: 50px;
-          margin-top: 25px;
-        }
 
-        .funding-logos img {
-          height: 90px;
-          margin: 20px;
-          object-fit: contain;
-        }
-
-        @media (max-width: 768px) {
-          .funding-logos img {
-            height: 60px;
-            margin: 10px;
-          }
-        }
-        </style>
-
-        <div style="text-align: center;">
-          <h2 style="margin-bottom: 15px; font-size: 2rem; font-weight: 700;">
-            Funding
-          </h2>
-
-          <div class="funding-logos">
-
-            <img src="/media/NASA_logo.png" alt="NASA">
-
-
-
-          </div>
-        </div>
+        ![](/media/NASA_logo.png)
 
     design:
       css_class: hbx-bg-gradient
