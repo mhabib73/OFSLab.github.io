@@ -86,10 +86,12 @@ sections:
       title: |
           
       text: |
-        Funding: National Aeronautics and Space Administration (NASA) 
-        <br><br>
+        Funding: 
+        <br>
+        National Aeronautics and Space Administration (NASA)
+        <br>
         Relativity Networks Inc
-        <br><br>
+        <br>
         Florida Tech Provost Seed Grant
         <br>
     design:
