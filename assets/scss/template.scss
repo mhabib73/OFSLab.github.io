@@ -1,58 +1,166 @@
-/* Navbar */
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: left;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: left;
+}
+
+
+
+/* Bigger navigation bar with logo on left */
 .navbar {
-    min-height: 70px !important;
-    padding: 0 1rem !important;
+    height: 110px !important;
+    min-height: 110px !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 0 .1rem !important;
 }
 
-/* Logo */
+/* Logo on left */
+.navbar-brand {
+    order: 1 !important;
+    margin-left: auto !important;
+}
+
 .navbar-brand img {
-    height: 60px !important;
-    width: auto !important;
-    max-width: 100% !important;
+    height: 800px !important;
+    width: 900px !important;
 }
 
-/* Navigation */
+/* Navigation items on right */
 .navbar-nav {
-    gap: 0.8rem !important;
+    order: 2 !important;
+    display: flex !important;
+    gap: 1.5rem !important;
 }
 
 .nav-link {
-    font-size: 15px !important;
-    padding: 0.5rem !important;
+    font-size: 16.5px !important;
+    padding: 1.5px 1.5px !important;
 }
 
-/* Mobile adjustments */
+
+
+
+
+
+// image size control
+.custom-hero-size img {
+  max-width: 250px;  // Adjust as needed
+  height: 250px;
+  // OR specific width/height
+  // width: 600px;
+  // height: 300px;
+}
+
+// screen size of the css_class
+.hero-section {
+  height: 75vh;   /* full screen */
+}
+
 @media (max-width: 768px) {
-
-  .navbar {
-      min-height: 60px !important;
-      padding: 0 0.5rem !important;
-  }
-
-  .navbar-brand img {
-      height: 45px !important;
-      width: auto !important;
-  }
-
-  .navbar-nav {
-      gap: 0.3rem !important;
-  }
-
-  .nav-link {
-      font-size: 14px !important;
-      padding: 0.3rem !important;
-  }
-
   .hero-section {
-      height: auto !important;
-      min-height: 60vh;
+    height: 70vh;  /* shorter on mobile */
   }
+}
 
-  .project-card {
-      max-width: 100% !important;
-  }
 
-  .card:hover {
-      transform: none !important;
-  }
+.filter_button {
+    background-color: #DBF8FF;
+    color: '';
+    border: 1px solid #border-color;
+}
+
+
+.project-card {
+  max-width: 300px;
+  padding: .5px;
+}
+
+.project-card img {
+  height: 90px;
+  object-fit: cover;
+}
+
+.project-card .article-style {
+  font-size: 0.3rem;
+}
+
+
+
+ // body {
+  // background-color: rgb(247, 250, 252);
+// }
+
+// .dark .article-container {
+  // background-color: rgb(31, 39, 51);
+// }
+
+// custom footer color
+.page-footer {
+  background-color: rgb(247, 250, 252);
+}
+
+.dark .page-footer {
+  background-color: rgb(26, 32, 44);
+}
+
+// more rounded cards and larger gap between cards
+.card-simple {
+  margin-top: 1.8rem;
+  border-radius: 15px;
+}
+
+
+
+
+.card {
+    position: relative;
+    padding: 1rem;
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: 0.5s ease;
+    z-index: 1;
+}
+
+/* glow border */
+.card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 1px;
+    border-radius: inherit;
+    background: linear-gradient(135deg, #6a5cff, #4ac9ff, #6affb3);
+    -webkit-mask: 
+        linear-gradient(#fff 0 0) content-box, 
+        linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+            mask-composite: exclude;
+    z-index: -1;
+}
+
+/* hover boost */
+.card:hover::before {
+    filter: blur(5px);
+}
+
+
+
+.container:hover > :not(:hover) {
+    opacity: 0.3;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    background: radial-gradient(
+        circle at center,
+        rgba(90, 130, 255, 0.35),
+        rgba(0, 0, 0, 0)
+    );
+    box-shadow: 0 0 18px rgba(90, 130, 255, 0.55);
 }
