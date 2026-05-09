@@ -83,14 +83,16 @@ sections:
         <br>
   - block: markdown
     content:
-      title: "Funding"
+      title: 
 
       text: |
+        Funding 
 
-        {{< figure src="NASA_logo.png" width="140">}}
+        {{< figure src="NASA_logo.png" width="150">}}  {{< figure src="NRelativity_LOGO_light.png" width="140">}}
+      
 
     design:
-      css_class: hbx-bg-gradient
+      #css_class: hbx-bg-gradient
       no_padding: true
       spacing:
         padding: ["0.5rem", 0, "0.5rem", 0]
