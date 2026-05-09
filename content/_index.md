@@ -88,10 +88,13 @@ sections:
       text: |
         Funding 
 
-        <div style="display:flex; gap:20px; align-items:center;">
+  <span style="display:inline-block; margin-right:20px;">
     {{< figure src="NASA_logo.png" width="150" >}}
+  </span>
+
+  <span style="display:inline-block;">
     {{< figure src="Relativity_LOGO_light.png" width="150" >}}
-        </div>
+  </span>
       
 
     design:
