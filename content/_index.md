@@ -142,11 +142,11 @@ sections:
             Funding
           </h2>
 
-<div class="funding-logos">
+    <div class="funding-logos">
 
-  <img src="NASA_logo.png" alt="NASA" style="height:90px; margin:20px;">
+    <img src="NASA_logo.png" alt="NASA" style="height:90px; margin:20px;">
 
-</div>
+    </div>
 
     design:
       css_class: hbx-bg-gradient
