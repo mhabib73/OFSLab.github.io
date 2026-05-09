@@ -88,7 +88,7 @@ sections:
       text: |
         Funding 
 
-        {{< figure src="NASA_logo.png" width="150">}}  {{< figure src="NRelativity_LOGO_light.png" width="140">}}
+        {{< figure src="NASA_logo.png" width="150">}}  {{< figure src="Relativity_LOGO_light.png" width="150">}}
       
 
     design:
