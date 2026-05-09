@@ -96,57 +96,33 @@ sections:
           margin-top: 25px;
         }
 
-        .funding-logos a {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          transition: transform 0.3s ease;
-        }
-
-        .funding-logos a:hover {
-          transform: translateY(-4px);
-        }
-
         .funding-logos img {
-          height: 85px;
-          max-width: 220px;
+          height: 90px;
+          margin: 20px;
           object-fit: contain;
-          filter: grayscale(100%) brightness(1.1);
-          opacity: 0.9;
-          transition: all 0.3s ease;
-        }
-
-        .funding-logos img:hover {
-          filter: grayscale(0%);
-          opacity: 1;
         }
 
         @media (max-width: 768px) {
-          .funding-logos {
-            gap: 25px;
-          }
-
           .funding-logos img {
             height: 60px;
-            max-width: 160px;
+            margin: 10px;
           }
         }
         </style>
 
         <div style="text-align: center;">
-          <h2 style="
-            margin-bottom: 15px;
-            font-size: 2rem;
-            font-weight: 700;
-          ">
+          <h2 style="margin-bottom: 15px; font-size: 2rem; font-weight: 700;">
             Funding
           </h2>
 
-    <div class="funding-logos">
+          <div class="funding-logos">
 
-    <img src="NASA_logo.png" alt="NASA" style="height:90px; margin:20px;">
+            <img src="/media/NASA_logo.png" alt="NASA">
 
-    </div>
+
+
+          </div>
+        </div>
 
     design:
       css_class: hbx-bg-gradient
