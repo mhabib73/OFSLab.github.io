@@ -87,7 +87,7 @@ sections:
 
       text: |
 
-        ![](/media/NASA_logo.png)
+        {{< figure src="NASA_logo.png" caption="NASA" >}}
 
     design:
       css_class: hbx-bg-gradient
