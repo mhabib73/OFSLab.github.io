@@ -89,8 +89,8 @@ sections:
         Funding 
 
         <div style="display:flex; gap:20px; align-items:center;">
-          <img src="NASA_logo.png" width="150">
-          <img src="Relativity_LOGO_light.png" width="150">
+          {{< figure src="NASA_logo.png" width="150" >}}
+          {{< figure src="Relativity_LOGO_light.png" width="150" >}}
         </div>
       
 
