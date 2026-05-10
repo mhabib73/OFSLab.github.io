@@ -91,7 +91,7 @@ sections:
         <div style="display:flex; gap:20px; align-items:center;">
           {{< figure src="NASA_logo.png" width="150" >}}
           {{< figure src="Relativity_LOGO_dark.png" width="180" >}}
-          {{< figure src="florida_tech.png" width="150" >}}
+          {{< figure src="florida_tech.png" caption="PSG Fund" width="150" >}}
         </div>
       
 
