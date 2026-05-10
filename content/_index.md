@@ -86,12 +86,14 @@ sections:
       title: 
 
       text: |
-        Funding 
-
-        <div style="display:flex; gap:20px; align-items:center;">
-          {{< figure src="NASA_logo.png" width="150" >}}
-          {{< figure src="Relativity_LOGO_dark.png" height="150" >}}
-          {{< figure src="florida_tech.png" caption="PSG Fund" width="140" >}}
+        <div style="background: transparent; padding: 0; margin: 0;">
+          Funding 
+  
+          <div style="display:flex; gap:20px; align-items:center; justify-content:center; flex-wrap:wrap; background: transparent;">
+            {{< figure src="NASA_logo.png" width="150" >}}
+            {{< figure src="Relativity_LOGO_dark.png" height="180" >}}
+            {{< figure src="florida_tech.png" caption="PSG Fund" width="140" >}}
+          </div>
         </div>
       
 
