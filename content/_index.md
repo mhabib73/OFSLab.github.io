@@ -95,7 +95,9 @@ sections:
       
 
     design:
-      #css_class: hbx-bg-gradient
+      css_class: hbx-bg-gradient
+      background:
+        color: "white"
       no_padding: true
       spacing:
         padding: ["0.5rem", 0, "0.5rem", 0]
