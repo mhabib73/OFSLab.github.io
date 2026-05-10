@@ -90,9 +90,9 @@ sections:
           Funding 
   
           <div style="display:flex; gap:20px; align-items:center; justify-content:center; flex-wrap:wrap; background: transparent;">
-            {{< figure src="NASA_logo.png" width="150" >}}
+            {{< figure src="NASA_logo.png" width="170" >}}
             {{< figure src="Relativity_LOGO_dark.png" width="170" >}}
-            {{< figure src="florida_tech.png" caption="PSG Fund" width="140" >}}
+            {{< figure src="florida_tech.png" caption="PSG Fund" width="160" >}}
           </div>
         </div>
       
