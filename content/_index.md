@@ -93,7 +93,7 @@ sections:
           <div style="display:flex; gap:30px; align-items:center; justify-content:center; flex-wrap:wrap; background: transparent;">
             {{< figure src="NASA_logo.png" width="180" >}}
             {{< figure src="Relativity_LOGO_dark.png" width="190" >}}
-            {{< figure src="florida_tech.png" width="160" >}}
+            {{< figure src="florida_tech.png" width="150" >}}
           </div>
         </div>
       
