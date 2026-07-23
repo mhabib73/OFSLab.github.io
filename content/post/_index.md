@@ -12,7 +12,7 @@ sections:
         <br>
       filters:
         folders:
-          - post
+          - post         # post or news
     design:
       no_padding: true
       spacing:
