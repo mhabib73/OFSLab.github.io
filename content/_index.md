@@ -13,7 +13,7 @@ sections:
     content:
       title: |
         <span style="font-size: 3rem; color: white; white-space: nowrap; text-align: left; display: block;">
-        Welcome to the Optical Fiber Science Lab! </span>
+        Welcome to the Optical Fiber Science Lab </span>
       
       text: |
 
