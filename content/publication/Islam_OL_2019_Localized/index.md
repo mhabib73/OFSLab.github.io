@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 publication: "Optics Letters **44**, 1134 (2019)"
 publication_short: ""
 
-abstract: As technology continues to advance, the development of novel sensing systems opens new possibilities for low-cost, practical biosensing applications. In this Letter, we demonstrate a localized surface plasmon resonance system that combines both wave-guiding and plasmonic resonance sensing with a single microstructured polymeric structure. Characterizing the sensor using the finite element method simulation shows, to the best of our knowledge, a record wavelength sensitivity (WS) of 111000 nm/refractive index unit (RIU), high amplitude sensitivity (AS) of 2050 RIU<sup>-1</sup>, high sensor resolution and limit of detection of 9×10<sup>-7</sup> RIU and 8.12×10<sup>-12</sup> RIU<sup>2</sup>/nm, respectively. Furthermore, these sensors have the capability to detect an analyte within the refractive index range of 1.33–1.43 in the visible to mid-IR, therefore being potentially suitable for applications in biomolecular and chemical analyte detection.
+abstract: 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
