@@ -20,8 +20,8 @@ authors:
   - Pravallika
   - admin
 author_notes:
-  - Phd Student
-  - Graduate stduent
+  - Phd Students
+  - Graduate Stduents
   - Principal Investigator
 ---
 
