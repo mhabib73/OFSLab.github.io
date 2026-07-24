@@ -35,7 +35,7 @@ sections:
       css_class: hero-section
       #css_class: fullscreen
       #spacing:
-        #padding: ["0rem", 0, "0em", 0]
+        #padding: ["1rem", 0, "1em", 0]
 
   - block: hero
     content:
@@ -64,7 +64,7 @@ sections:
       text_align: left
       no_padding: true
       spacing:
-        padding: ["0rem", 0, "0rem", 0]
+        padding: ["1rem", 1, "1rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: hero
@@ -94,7 +94,7 @@ sections:
       text_align: right
       no_padding: true
       spacing:
-        padding: ["0rem", 0, "0rem", 0]
+        padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
