@@ -53,21 +53,4 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
-
-
-  - block: markdown
-    content:
-      title: 
-
-      text: |
-        <div style="background: transparent; padding: 0; margin: 0;">
-        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
-          <strong >Funding Support</strong>
-  
-          <div style="display:flex; gap:30px; align-items:center; justify-content:center; flex-wrap:wrap; background: transparent;">
-            {{< figure src="NASA_logo.png" width="180" >}}
-            {{< figure src="Relativity_LOGO_dark.png" width="190" >}}
-            {{< figure src="florida_tech.png" width="150" >}}
-          </div>
-        </div>
 ---
