@@ -12,9 +12,11 @@ profile: true
 authors:
   - admin
   - Mahfuz
+  - Daniel
+  - Sarwar
 author_notes:
   - Principal Investigator
-  - Phd student
+  - Phd Students
 
 ---
 
