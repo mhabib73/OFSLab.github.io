@@ -82,6 +82,24 @@ sections:
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
         <br>
 
+
+  - block: collection
+    content:
+      image:
+        filename: HCARF_detection.gif
+      title: '<div style="text-align: left; color: black;">HCARF modeling</div>'
+      text: ""
+
+    design:
+      view: citation
+      columns: '2'
+      text_align: right
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
+
+
   - block: collection
     content:
       title: '<div style="text-align: left; color: black;">Featured journal articles</div>'
