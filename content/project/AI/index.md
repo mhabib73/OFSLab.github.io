@@ -1,6 +1,6 @@
 ---
 title: Physics-based AI modeling of hollow-core fibers
-summary: "Develop advanced physics-informed artificial intelligence models to accurately predict light propagation, nonlinear dynamics, and gas–light interactions in hollow-core fibers. This research accelerates fiber design, improves device performance, and enables next-generation applications in ultrafast lasers, optical sensing, and high-power photonics."
+summary: "Develop advanced physics-informed artificial intelligence models to accurately predict transmission loss, modal properties, light propagation, nonlinear dynamics, and gas–light interactions in hollow-core fibers. This research accelerates fiber design, improves device performance, and enables next-generation applications in AI and data centers, ultrafast lasers, optical sensing, and high-power photonics."
 date: 2026-07-23
 #links:
   #- type: home
