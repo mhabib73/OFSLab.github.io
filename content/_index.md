@@ -60,7 +60,7 @@ sections:
       css_class: "custom-hero-size"
       background:
         color: ""
-      columns: '1'
+      columns: '2'
       text_align: left
       no_padding: true
       spacing:
