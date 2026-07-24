@@ -33,6 +33,7 @@ content:
       tag: '*'
     - name: Modeling
       tag: Modeling
+      tag: AI
     - name: Characterization and fabrication
       tag: Fabrication
     - name: Sensor
