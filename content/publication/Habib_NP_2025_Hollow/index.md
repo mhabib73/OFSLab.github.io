@@ -32,6 +32,7 @@ tags:
 - Hollow-core fibers
 - High power fiber lasers
 - Low-loss fibers
+- Modeling
 
 featured: true
 
@@ -76,6 +77,7 @@ projects:
 - HCARF_modeling
 - HCARF_fabrication
 - UNO
+- AI
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
