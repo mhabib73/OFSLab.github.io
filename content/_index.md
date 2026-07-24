@@ -99,17 +99,14 @@ sections:
 
   - block: markdown
     content:
-      title: |
+      title: Beyond Conventional Fibers: The Future of Light Transmission
           
       text: |
-        We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate
-        faster, over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new
-        possibilities for the future of high-speed communication, data networks, and beyond.
+Our research advances next-generation optical fiber technologies that redefine the limits of light transmission. We develop innovative hollow-core fibers with engineered microstructured air channels that enable ultra-low loss, near-vacuum latency, high power handling, and broad optical bandwidth, paving the way for faster, more efficient, and scalable photonic systems.
         <br><br>
-        By combining theory, simulation, and experimental fabrication, we aim to understand the underlying physics of light propagation in complex fiber geometries. Our insights drive the development of practical fiber
-        designs with transformative applications in AI data centers, quantum communication, ultrafast data transmission, advanced laser systems, fiber-optic sensing, and biomedical imaging.
+By combining fundamental physics, AI-driven design, computational modeling, and experimental characterization, we uncover the principles that govern light propagation in complex fiber structures and translate them into high-performance fiber technologies.
         <br><br>
-        We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
+Our work supports breakthroughs in AI data centers, optical communications, quantum technologies, ultrafast lasers, fiber-optic sensing, biomedical imaging, and other emerging photonic applications. We welcome collaborations with researchers, industry partners, and students to shape the future of photonics.
         <br>
 
   - block: collection
