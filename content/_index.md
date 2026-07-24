@@ -96,6 +96,24 @@ sections:
             {{< figure src="florida_tech.png" width="150" >}}
           </div>
         </div>
+
+  - block: collection
+    content:
+      title: '<div style="text-align: left; color: black;">Featured journal articles</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'featured-article'
+    design:
+      view: citation
+      columns: '1'
+      text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
       
 
     design:
