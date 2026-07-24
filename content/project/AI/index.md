@@ -11,7 +11,6 @@ tags:
   - Low-loss fibers
   - Multi-mode fibers
   - AI
-  - Modeling
   #- HugoBlox
   #- Markdown
 
