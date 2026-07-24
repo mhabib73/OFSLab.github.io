@@ -22,10 +22,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational photonics.
+bio: Hollo-core fibers; Physics-based AI modeling of HCFs; Fiber sensors 
 
 interests:
   - Hollow-core fibers
+  - Physics-based AI modeling of HCFs
   - Fiber sensors
 
 
