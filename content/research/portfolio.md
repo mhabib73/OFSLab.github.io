@@ -31,9 +31,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Physics-based AI
+      tag: AI
     - name: Modeling
       tag: Modeling
-      tag: AI
     - name: Characterization and fabrication
       tag: Fabrication
     - name: Sensor
