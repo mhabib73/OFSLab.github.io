@@ -93,7 +93,7 @@ sections:
         publication_type: 'featured-article'
     design:
       view: citation
-      columns: '1'
+      columns: '2'
       text_align: left
       no_padding: true
       spacing:
