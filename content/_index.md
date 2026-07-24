@@ -100,8 +100,11 @@ sections:
   - block: markdown
     content:
       title: |
-        <div style="text-align: font-size: 5px; left; max-width: 1200px; margin: 0 auto;">
-          <strong >Shaping the future of light transmission with hollow-core fibers</strong>
+        <div style="text-align: left; max-width: 1200px; margin: 0 auto;">
+          <strong style="font-size: 2rem;">
+            Shaping the Future of Light Transmission with Hollow-Core Fibers
+          </strong>
+        </div>
           
       text: |
         We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate
