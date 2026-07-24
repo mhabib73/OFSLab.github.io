@@ -100,7 +100,7 @@ sections:
   - block: markdown
     content:
       title: |
-        <div style="text-align: font-size: 10px; left; max-width: 1500px; margin: 0 auto;">
+        <div style="text-align: font-size: 5px; left; max-width: 1200px; margin: 0 auto;">
           <strong >Shaping the future of light transmission with hollow-core fibers</strong>
           
       text: |
