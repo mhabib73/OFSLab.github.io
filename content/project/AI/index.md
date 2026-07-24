@@ -28,6 +28,8 @@ design:
       disable_processing: true
 authors:
   - admin
+  - Daniel
+  - Mahfuz
 author_notes:
   - Principal Investigator
   - PhD Students
