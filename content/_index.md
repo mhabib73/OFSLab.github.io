@@ -94,14 +94,14 @@ sections:
       text_align: right
       no_padding: true
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: ["0.7rem", 0, "0.7rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
     content:
       title: |
         <div style="text-align: left; max-width: 1200px; margin: 0 auto;">
-          <strong style="font-size: 2rem;">
+          <strong style="font-size: 1rem;">
             Shaping the Future of Light Transmission with Hollow-Core Fibers
           </strong>
         </div>
