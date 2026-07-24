@@ -35,7 +35,7 @@ content:
       tag: AI
     - name: Modeling
       tag: Modeling
-    - name: Characterization and fabrication
+    - name: Fiber fabrication
       tag: Fabrication
     - name: Sensor
       tag: Sensor
