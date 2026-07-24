@@ -41,7 +41,6 @@ content:
       tag: Sensor
     - name: Ultrafast nonlinear optics
       tag: UNO
-
   - block: markdown
     content:
       title: 
