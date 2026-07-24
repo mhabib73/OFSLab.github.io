@@ -11,7 +11,7 @@ sections:
 
   - block: markdown
     content:
-      #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">MOFLab projects</div>'
+      #title: '<div style="grid-column: 1 / -1; text-align:left; font-size:1rem;">OFSLab projects</div>'
       text: |
         <p style="color:white; font-size:1.6rem;">OFSLab explores state-of-the-art optical fiber design and fabrication, smart, low-cost and energy-efficient fiber sensors, and ultrafast nonlinear fiber dynamics.</p> 
     design:
@@ -72,23 +72,5 @@ sections:
       show_breadcrumb: true
       show_related: true
       commentable: true
-
-
-
-  - block: markdown
-    content:
-      title: 
-
-      text: |
-        <div style="background: transparent; padding: 0; margin: 0;">
-        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
-          <strong >Funding Support</strong>
-  
-          <div style="display:flex; gap:30px; align-items:center; justify-content:center; flex-wrap:wrap; background: transparent;">
-            {{< figure src="NASA_logo.png" width="180" >}}
-            {{< figure src="Relativity_LOGO_dark.png" width="190" >}}
-            {{< figure src="florida_tech.png" width="150" >}}
-          </div>
-        </div>
 
 ---
