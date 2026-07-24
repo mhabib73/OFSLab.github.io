@@ -100,8 +100,8 @@ sections:
   - block: markdown
     content:
       title: |
-        <div style="text-align: left; max-width: 1200px; margin: 0 auto;">
-          <strong style="font-size: 1rem;">
+        <div style="text-align: center; max-width: 1500px; margin: 0 auto;">
+          <strong style="font-size: 1.5rem;">
             Shaping the Future of Light Transmission with Hollow-Core Fibers
           </strong>
         </div>
@@ -115,7 +115,6 @@ sections:
         designs with transformative applications in AI data centers, quantum communication, ultrafast data transmission, advanced laser systems, fiber-optic sensing, and biomedical imaging.
         <br><br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
-        <br>
 
   - block: collection
     content:
