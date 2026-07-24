@@ -45,6 +45,6 @@ Advanced Optical Fiber Fabrication is crucial for low-loss optical fibers. By de
 - Explore inverse design methods to discover next-generation hollow-core fiber structures
   - This project is funded by Relativity Networks Inc.
   <br><br>
-You can click [here](https://relativitynetworks.ai/) to know about the CREOL group.
+You can click [here](https://relativitynetworks.ai/) to know about Relativity Networks Inc.
 
 #<!--more-->
