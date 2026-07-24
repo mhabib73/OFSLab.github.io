@@ -92,14 +92,6 @@ sections:
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <HCARF modeling</strong>
           <br>
-          #<ul style="list-style-type: disc; padding-left: 50px;">
-            #<li style="font-size: 22px;">Computational fiber photonics</li>
-            #<li style="font-size: 22px;">Advanced fiber design and characterization</li>
-            #<li style="font-size: 22px;">Energy-efficient and low-cost fiber sensors</li>
-            #<li style="font-size: 22px;">Smart fiber-based nonlinear devices</li>
-            #<li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
-
-          #</ul>
         </div>
 
     design:
