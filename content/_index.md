@@ -64,7 +64,7 @@ sections:
       text_align: left
       no_padding: true
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: ["0rem", 0, "0rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: hero
@@ -94,13 +94,13 @@ sections:
       text_align: right
       no_padding: true
       spacing:
-        padding: ["0.7rem", 0, "0.7rem", 0]
+        padding: ["0rem", 0, "0rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
     content:
       title: |
-        <div style="text-align: center; max-width: 1500px; margin: 0 auto;">
+        <div style="text-align: center; max-width: 1800px; margin: 0 auto;">
           <strong style="font-size: 1.5rem;">
             Shaping the Future of Light Transmission with Hollow-Core Fibers
           </strong>
@@ -118,7 +118,7 @@ sections:
 
   - block: collection
     content:
-      title: '<div style="text-align: left; color: black;">Featured journal articles</div>'
+      title: '<div style="text-align: left; color: black;">Latest articles</div>'
       text: ""
       count: 5
       filters:
