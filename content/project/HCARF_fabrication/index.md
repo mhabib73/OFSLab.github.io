@@ -10,6 +10,7 @@ tags:
   - Single-mode fibers
   - Low-loss fibers
   - Multi-mode fibers
+  - AI
   - Fabrication
   #- HugoBlox
   #- Markdown
