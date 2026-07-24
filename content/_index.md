@@ -102,15 +102,7 @@ sections:
       title: Beyond Conventional Fibers: The Future of Light Transmission
           
       text: |
-        Our research advances next-generation optical fiber technologies that redefine the limits of light transmission. We develop innovative hollow-core fibers with engineered microstructured air
-        channels that enable ultra-low loss, near-vacuum latency, high power handling, and broad optical bandwidth, paving the way for faster, more efficient, and scalable photonic systems.
-        <br><br>
-        By combining fundamental physics, AI-driven design, computational modeling, and experimental characterization, we uncover the principles that govern light propagation in complex fiber structures
-        and translate them into high-performance fiber technologies.
-        <br><br>
-        Our work supports breakthroughs in AI data centers, optical communications, quantum technologies, ultrafast lasers, fiber-optic sensing, biomedical imaging, and other emerging photonic
-        applications. We welcome collaborations with researchers, industry partners, and students to shape the future of photonics.
-        <br>
+
 
   - block: collection
     content:
