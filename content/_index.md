@@ -41,7 +41,7 @@ sections:
     content:
       title: |
       image:
-        filename: fiber_detection.gif
+        filename: modes.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <strong >What we do in OFS lab?</strong>
