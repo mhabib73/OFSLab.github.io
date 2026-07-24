@@ -105,7 +105,6 @@ sections:
         Our research advances next-generation optical fiber technologies that redefine the limits of light transmission. We develop innovative hollow-core fibers with engineered microstructured air
         channels that enable ultra-low loss, near-vacuum latency, high power handling, and broad optical bandwidth, paving the way for faster, more efficient, and scalable photonic systems.
         <br><br>
-
         By combining fundamental physics, AI-driven design, computational modeling, and experimental characterization, we uncover the principles that govern light propagation in complex fiber structures
         and translate them into high-performance fiber technologies.
         <br><br>
