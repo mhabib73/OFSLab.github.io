@@ -1,8 +1,8 @@
 ---
 title: "Accurate loss prediction of realistic hollow-core anti-resonant fibers using machine learning"
 authors:
-- Y. Jewani
-- M. Petry
+- Jewani
+- Michael
 - R. Sanchez-Arias
 - Admin
 
