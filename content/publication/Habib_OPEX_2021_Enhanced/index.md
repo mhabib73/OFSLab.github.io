@@ -3,8 +3,8 @@ title: "Enhanced birefringence in conventional and hybrid anti-resonant hollow-c
 authors:
 - Admin
 - A. I. Adamu
-- C. Markos
-- R. Amezcua-Correa
+- Christos
+- Rodrigo
 
 #- Robert Ford
 #author_notes:
