@@ -29,7 +29,7 @@ publication_types: ["featured-article"]
 publication: "IEEE Journal of Lightwave Technology **44**, 5679 (2026)"
 publication_short: ""
 
-abstract: 
+abstract: Antiresonant hollow-core fibers (AR-HCFs) have reduced their losses below traditional solid-core fiber and are beginning to scale production up for large-scale adoption. To achieve this, AR-HCFs must be able to be spliced into existing infrastructure with low loss and low back reflection. For high power fiber amplifiers, this back reflection not only steals gain but also seeds deleterious nonlinear effects like stimulated Brillouin scattering, and the splice losses lead to significant heating challenges. Here, we demonstrate for the first time to the best of our knowledge a motheye surface-treated large mode area fiber fusion spliced to a fundamental mode matched AR-HCF with an insertion efficiency of 93.4% and a measured back reflection below −32.3 dB at above 790 W. These results provide a springboard for next-generation remote material processing, power beaming over fiber, and directed energy applications.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
