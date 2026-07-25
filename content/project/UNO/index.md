@@ -16,6 +16,7 @@ authors:
   - admin
   - Rodrigo
   - Darren
+  - Christos
   - Pawel
 author_notes:
   - Principal Investigator
