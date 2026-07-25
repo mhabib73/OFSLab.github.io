@@ -3,7 +3,7 @@ title: "Hollow-core fiber with nested anti-resonant tubes for low-loss THz guida
 authors:
 - G. K. M. Hasanuzzaman
 - Iezekiel
-- C. Markos
+- Christos
 - Admin
 
 
