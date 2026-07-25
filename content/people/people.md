@@ -27,6 +27,7 @@ content:
     - Affiliated Members
     - Visitors
     - Alumni
+    - Collaborators
   #sort_by: Params.last_name
   #sort_ascending: true
 
