@@ -1,7 +1,7 @@
 ---
 title: "Physics-based design and simulation of hollow-core anti-resonant fiber plasmonic sensors"
 authors:
-- M Al Mahfuz
+- Mahfuz
 - A Al Mamun
 - Admin
 
