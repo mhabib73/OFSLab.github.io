@@ -3,7 +3,7 @@ title: "Near-octave intense mid-infrared by adiabatic down-conversion in hollow 
 authors:
 - X. Ding
 - Admin
-- R. Amezcua-Correa
+- Rodrigo
 - J. Moses
 
 #- Robert Ford
