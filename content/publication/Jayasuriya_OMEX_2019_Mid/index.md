@@ -4,7 +4,7 @@ authors:
 - D. Jayasuriya
 - C. Rosenberg Petersen
 - D. Furniss
-- C. Markos
+- Christos
 - Z. Tang
 - Admin
 - O. Bang
