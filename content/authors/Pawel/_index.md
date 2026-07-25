@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pawel Jund
+title: Pawel Jung
 type: ''
 
 # Full Name (for SEO)
