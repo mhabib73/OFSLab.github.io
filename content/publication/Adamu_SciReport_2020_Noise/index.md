@@ -6,9 +6,9 @@ authors:
 - C. R. Smith
 - J. E. Lpoez
 - P. Uhd Jepsen
-- R. Amezcua Correa
+- Rodrigo
 - O. Bang
-- C. Markos
+- Christos
 
 #- Robert Ford
 #author_notes:
