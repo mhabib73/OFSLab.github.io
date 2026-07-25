@@ -11,7 +11,7 @@ authors:
 - H. Liu
 - S. Fan
 - Admin
-- R. Amezcua Correa
+- Rodrigo
 - G. Li
 
 #- Robert Ford
