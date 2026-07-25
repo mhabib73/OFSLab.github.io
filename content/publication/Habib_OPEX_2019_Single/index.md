@@ -3,9 +3,9 @@ title: "Single-mode, low loss hollow-core anti-resonant fiber designs"
 authors:
 - admin
 - J. E. Antonio-Lopez
-- C. Markos
+- Christos
 - A. Schülzgen
-- R. Amezcua Correa
+- Rodrigo
 #- Robert Ford
 #author_notes:
 #- "Equal contribution"
