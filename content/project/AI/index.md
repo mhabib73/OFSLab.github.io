@@ -28,6 +28,7 @@ design:
       disable_processing: true
 authors:
   - admin
+  - Rodrigo
   - Daniel
   - Mahfuz
 author_notes:
