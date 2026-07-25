@@ -35,6 +35,8 @@ author_notes:
   - PhD Students
 
 ---
+{{< figure src="fiber_detection.gif" caption="HC-ARF geometry detection" >}}
+
 Advanced Optical Fiber Fabrication is crucial for low-loss optical fibers. By developing new fabrication techniques, we can create fibers with precisely engineered geometries and material compositions that enable lower losses, broader bandwidths, and enhanced nonlinear or sensing capabilities. The main goals of this projects are to design and fabricate next-generation fibers for high-speed data communications, ultrafast laser delivery, quantum communication, and environmental sensing — achieving higher performance, lower cost, and greater energy efficiency.
 
 - Develop physics-informed AI models to predict light propagation in hollow-core fibers
