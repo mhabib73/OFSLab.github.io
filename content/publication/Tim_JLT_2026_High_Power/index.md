@@ -7,7 +7,7 @@ authors:
 - Ryan A Lane
 - JE Antonio-Lopez
 - Admin
-- Rodrigo Amezcua-Correa
+- Rodrigo
 
 #- Robert Ford
 #author_notes:
