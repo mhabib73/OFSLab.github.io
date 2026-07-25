@@ -1,7 +1,7 @@
 ---
 title: "High amplitude sensitivity anti-resonant solid-core fiber plasmonic sensor for ultra-low refractive index detection"
 authors:
-- M. Al Mahfuz
+- Mahfuz
 - A. Al Mamun
 - P. Kante
 - Admin
