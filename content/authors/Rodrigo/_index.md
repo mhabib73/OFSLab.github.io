@@ -11,8 +11,7 @@ last_name: Amezcua-Correa
 superuser: true
 
 # Role/position
-role: Professor of Optics
-role: CTO, Relativity Networks Inc.
+role: Professor of Optics; CTO, Relativity Networks Inc.
 
 
 
@@ -22,7 +21,7 @@ organizations:
     url: https://creol.ucf.edu/person/rodrigo-amezcua-correa/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hollow-core fibers; High power lasers; Communication
+bio: Hollow-core fibers; High power fiber lasers; Optical communication
 interests:
   - Advanced Optical Fibers Design, Fabrication, and Characterization
   - High Power Fiber Lasers
