@@ -13,7 +13,7 @@ authors:
 -  I. Divliansky
 - J. E. Antonio-Lopez 
 - A. Schülzgen
-- R. Amezcua Correa
+- Rodrigo
 #- Robert Ford
 #author_notes:
 #- "Equal contribution"
