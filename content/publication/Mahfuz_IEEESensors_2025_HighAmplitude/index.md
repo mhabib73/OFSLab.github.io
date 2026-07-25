@@ -3,7 +3,7 @@ title: "High amplitude sensitivity anti-resonant solid-core fiber plasmonic sens
 authors:
 - Mahfuz
 - A. Al Mamun
-- P. Kante
+- Pravallika
 - Admin
 
 #- Robert Ford
