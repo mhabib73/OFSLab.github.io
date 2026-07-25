@@ -44,7 +44,6 @@ employment:
     date_start: '2023-08-01'
     date_end: ''
     description: |
-      * CTO, Relativity Networks Inc.
       * Head of Nonlinear Fiber Devices
       
   - title: Senior Technical Manager
