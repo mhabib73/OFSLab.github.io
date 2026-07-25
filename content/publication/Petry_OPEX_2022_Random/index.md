@@ -1,7 +1,7 @@
 ---
 title: "Random misalignment and anisotropic deformation of the nested cladding elements in hollow-core anti-resonant fibers"
 authors:
-- M. Petry
+- Michael
 - Rodrigo
 - Admin
 
