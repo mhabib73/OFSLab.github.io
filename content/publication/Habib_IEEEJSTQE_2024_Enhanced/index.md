@@ -1,7 +1,7 @@
 ---
 title: "Enhanced inhibited mode-coupling: Multi-mode hollow-core anti-resonant fiber designs"
 authors:
-- M. Al Mahfuz
+- Mahfuz
 - Admin
 
 #- Robert Ford
