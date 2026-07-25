@@ -8,9 +8,9 @@ authors:
 - B. Zhou
 - A. Schülzgen
 - M. Bache
-- R. Amezcua Correa
+- Rodrigo
 - O. Bang
-- C. Markos
+- Christos
 
 #- Robert Ford
 author_notes:
