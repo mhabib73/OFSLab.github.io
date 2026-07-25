@@ -2,7 +2,7 @@
 title: "Hollow-core breakthrough"
 authors:
 - admin
-- R. Amezcua Correa
+- Rodrigo
 #- Robert Ford
 #author_notes:
 #- "Equal contribution"
