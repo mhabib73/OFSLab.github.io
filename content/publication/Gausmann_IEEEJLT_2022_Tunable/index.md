@@ -9,7 +9,7 @@ authors:
 - H. Cheng
 - J. E. Lopez
 - X. Yu
-- R. Amuezcua-Correa
+- Rodrigo
 - A. Schülzgen
 
 
