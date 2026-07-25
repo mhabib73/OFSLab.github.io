@@ -9,7 +9,7 @@ authors:
 - P. Sillard
 - A. Amezcua-Correa
 - A. Schülzgen
-- R. Amezcua Correa
+- Rodrigo
 - G. Li
 
 #- Robert Ford
