@@ -2,9 +2,9 @@
 title: "Multioctave supercontinuum from visible to mid-infrared and bend effects on ultrafast nonlinear dynamics in gas-filled hollow-core fiber (Editor's Choice)"
 authors:
 - Admin
-- C. Markos
+- Christos
 - J. E. Lopez
-- R. Amezcua-Correa
+- Rodrigo
 
 #- Robert Ford
 #author_notes:
