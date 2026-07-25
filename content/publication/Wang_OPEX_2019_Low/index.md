@@ -34,7 +34,8 @@ publication_types: ["featured-article"]
 publication: "Optics Express **27**, 35962 (2019)"
 publication_short: ""
 
-abstract: 
+abstract: Few-mode EDFAs with low channel crosstalk can replace multiple parallel single-mode EDFAs in single-mode fiber trunk lines and networks. Here we proposed a low-crosstalk few-mode EDFA by exploiting the unitary property of the coupling matrix of a symmetric photonic lantern. We experimentally demonstrated a 3-channel few-mode EDFA using retro-reflection of a 3-mode symmetric photonic lantern. The small signal gain for all three channels are measured to be larger than 25 dB over the entire C-band and the crosstalks are below −10 dB.
+
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
