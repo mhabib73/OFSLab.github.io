@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "Scientific Reports **1**, 1 (2026)"
 publication_short: ""
 
-abstract: 
+abstract: Next-generation sensing technologies require high-performance sensors that offer ultra-low loss with enhanced sensitivity. To achieve this, we propose a hollow-core anti-resonant fiber (HC-ARF) refractive index (RI) sensor utilizing the surface plasmon resonance (SPR) detection mechanism for superior optical sensing performance. The proposed sensor model features a single ring of uniformly arranged regular cladding tubes, each coated with a thin plasmonic metal layer to facilitate strong coupling between the core and surface plasmon modes. Through rigorous finite-element modeling (FEM) simulations, the fiber structure is carefully optimized and sensing performance is investigated to obtain ultra-low loss and high detection sensitivity via wavelength interrogation. The simulation results show that the proposed HC-ARF sensor achieves losses up to two orders of magnitude lower than conventional solid-core fiber sensors. Notably, the sensor achieves enhanced wavelength sensitivity (WS) of 6500 and 11,500 nm/RIU for analyte RIs of 1.33 and 1.43, respectively, effectively spanning the visible to near-infrared spectrum with a broad sensing range from 1.25 to 1.44. Moreover, it shows stable performance under tight bending conditions with 10 cm bend radius and ±4% variations in geometric parameters. The combination of relatively low-loss, wide detection range, and high sensing performance makes this sensor effective for real-time RI monitoring applications such as glucose and sucrose concentration analysis, cancer cell detection, and SARS-CoV-2 identification.
 tags:
 - Hollow-core fibers
 - Sensors
