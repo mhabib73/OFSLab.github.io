@@ -2,9 +2,9 @@
 title: "Extreme UV light generation through dispersive wave trapping in a tapered gas-filled hollow fiber"
 authors:
 - Admin
-- C. Markos
+- Christos
 - J. E. Lopez
-- R. Amezcua-Correa
+- Rodrigo
 
 #- Robert Ford
 #author_notes:
