@@ -3,7 +3,7 @@ title: "Highly birefringent, low-loss, and near-zero flat dispersion ENZ based T
 authors:
 - M Shahjalal Hossain
 - S. M. A. Razzak
-- C. Markos
+- Christos
 - N. H. Hai
 - Admin
 - M. Samiul Habib
