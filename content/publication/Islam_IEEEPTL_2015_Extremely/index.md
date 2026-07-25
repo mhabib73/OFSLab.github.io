@@ -26,8 +26,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Photonics Technology Letters **27**, 2222 (2015)"
 publication_short: ""
 
-abstract: We present a thorough numerical analysis of a highly birefringent slotted porous-core circular photonic crystal fiber (PCF) for terahertz (THz) wave guidance. The slot shaped air-holes break the symmetry of the porous-core which offers a very high birefringence whereas the compact geometry of the circular cladding confines most of the power in the fiber-core. The fiber structure reported in this letter exhibits simultaneously ultrahigh modal birefringence of 7.5×10<sup>-1</sup> and a very low effective absorption loss of 0.07 cm<sup>-1</sup> for y-polarization mode at an operating frequency of 1 THz. It is highly anticipated that the slotted-core waveguide would be of very much convenience in many polarization maintaining THz appliances.
-
+abstract: 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
