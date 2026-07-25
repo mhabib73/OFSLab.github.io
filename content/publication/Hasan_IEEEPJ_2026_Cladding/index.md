@@ -26,7 +26,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Photonics Journal **18**, 3 (2026)"
 publication_short: ""
 
-abstract: A polarization-selective hollow-core antiresonant fiber (HC-ARF) is proposed and numerically investigated for single-polarization guidance in the telecom band. Finite-element simulations across the 1.50–1.60 μm range show that the optimized design achieves a high polarization extinction ratio of 1.73×104 at 1.55 μm, with low loss for the y–polarized mode (0.72 dB/km) and strongly suppressed x–polarized loss (12531 dB/km). The fiber also provides a modal birefringence of 0.21×10−4, enabling strong polarization selectivity and stable single-polarization guidance. These results indicate that the proposed PM-HC-ARF is well-suited for polarization-sensitive applications such as interferometry, sensing, and coherent communication.
+abstract: 
 tags:
 - Hollow-core fibers
 - Sensors
