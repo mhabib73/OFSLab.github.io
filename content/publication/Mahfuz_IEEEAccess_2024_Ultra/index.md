@@ -1,7 +1,7 @@
 ---
 title: "Ultra-sensitive visible-IR range fiber based plasmonic sensor: a finite-element analysis and deep learning approach for RI prediction"
 authors:
-- M. Al Mahfuz
+- Mahfuz
 - S. Afroz
 - A. Rahman
 - M. Azad Hossain
