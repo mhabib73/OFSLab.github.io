@@ -3,7 +3,7 @@ title: "Poor-man’s model of hollow-core anti-resonant fibers"
 authors:
 - M. Bache
 - Admin
-- C. Markos
+- Christos
 - J. Lægsgaard
 
 #- Robert Ford
