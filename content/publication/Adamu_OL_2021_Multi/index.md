@@ -6,9 +6,9 @@ authors:
 - Admin
 - M. K. Dasa
 - J. E. Lopez
-- R. Amezcua-Correa
+- Rodrigo
 - O. Bang
-- C. Markos
+- Christos
 
 #- Robert Ford
 #author_notes:
