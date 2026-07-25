@@ -12,6 +12,7 @@ profile: true
 
 authors:
   - admin
+  - Rodrigo
   - Mahfuz
   - Daniel
   - Sarwar
