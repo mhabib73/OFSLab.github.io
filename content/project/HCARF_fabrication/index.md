@@ -28,6 +28,7 @@ design:
       disable_processing: true
 authors:
   - admin
+  - Rodrigo
 author_notes:
   - Principal Investigator
 
