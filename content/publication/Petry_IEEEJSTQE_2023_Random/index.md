@@ -1,7 +1,7 @@
 ---
 title: "Random design variations of hollow-core anti-resonant fibers: a Monte-Carlo study"
 authors:
-- M. Petry
+- Michael
 - Admin
 
 #- Robert Ford
