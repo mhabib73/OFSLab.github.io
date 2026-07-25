@@ -2,8 +2,8 @@
 title: "Impact of cladding elements on the loss performance of hollow-core anti-resonant fibers"
 authors:
 - Admin
-- C. Markos
-- R. Amezcua-Correa
+- Christos
+- Rodrigo
 
 #- Robert Ford
 #author_notes:
