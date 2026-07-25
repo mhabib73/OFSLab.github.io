@@ -18,6 +18,7 @@ authors:
 author_notes:
   - Principal Investigator
   - Phd Students
+  - Collaborators
 
 ---
 
