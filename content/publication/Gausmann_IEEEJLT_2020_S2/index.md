@@ -11,7 +11,7 @@ authors:
 - Admin
 - J. Cook
 - M. C. Richardson
-- R. Amuezcua-Correa
+- Rodrigo
 - A. Schülzgen
 
 
