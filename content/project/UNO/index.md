@@ -14,6 +14,9 @@ profile: true
 
 authors:
   - admin
+  - Rodrigo
+  - Darren
+  - Pawel
 author_notes:
   - Principal Investigator
   - Collaborators
