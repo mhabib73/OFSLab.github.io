@@ -6,7 +6,7 @@ authors:
 - G. K. M. Hasanuzzaman
 - S. Rana
 - M. A. Sadath
-- C. Markos
+- Christos
 
 #- Robert Ford
 #author_notes:
@@ -28,9 +28,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Photonics Technology Letters **28**, 1537 (2016)"
 publication_short: ""
 
-abstract: We report on the numerical design optimization of a new kind of relatively simple porous-core photonic crystal fiber (PCF) for terahertz (THz) waveguiding. A novel twist is introduced in the regular hexagonal PCF by including a diamond-shaped porous-core inside the hexagonal cladding. The numerical results obtained from an efficient finite-element method, which confirms a high birefringence of the order 10<sup>-2</sup> and low effective material loss of 0.07 cm<sup>-1</sup> at 0.7-THz operating frequency. The proposed PCF is anticipated to be useful in polarization sensitive THz appliances.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+abstract: 
 tags:
 - THz fibers
 
