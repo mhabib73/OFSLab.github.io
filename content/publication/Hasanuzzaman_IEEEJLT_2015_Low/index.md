@@ -26,7 +26,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Journal of Lightwave Technology **33**, 4027 (2015)"
 publication_short: ""
 
-abstract: A novel porous-core kagome lattice photonic crystal fiber (PCF) is designed and analyzed in this paper for terahertz (THz) wave guidance. Using finite element method (FEM), properties of the proposed kagome lattice PCF are simulated in details including the effective material loss (EML), confinement loss, single-mode propagation, dispersion profile, and fraction of power in the porous-core with different core porosity. Simulation results indicate that 82.5% of bulk material loss of Topas can be reduced by using core porosity of 70%. The calculated EML is as low as 0.035 cm<sup>-1</sup> at operating frequency 1 THz. In addition, the proposed PCF also exhibits relatively low confinement loss and a much more flattened dispersion profile with single mode propagation.
+abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
