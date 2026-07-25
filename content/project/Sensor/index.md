@@ -16,13 +16,15 @@ tags:
 profile: true
 
 authors:
+  - admin
+  - Christos
   - Mahfuz
   - Pravallika
-  - admin
 author_notes:
   - Phd Students
   - Graduate Stduents
   - Principal Investigator
+  - Collaborators
 ---
 
 Developing smart, low-cost and energy-efficient fiber sensors is crucial for making advanced sensing technologies accessible and sustainable. Traditional optical sensors often require expensive materials and high-power interrogation systems, limiting their large-scale deployment. By focusing on cost-effective fabrication and low-energy operation, our research aims to enable widespread environmental monitoring, structural health diagnostics, and biomedical sensing with minimal resource use. The main goals are to optimize sensor design for high sensitivity and low loss, reduce fabrication complexity, and integrate efficient signal processing to support scalable, real-world applications.
