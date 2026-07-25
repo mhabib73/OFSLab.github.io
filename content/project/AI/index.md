@@ -33,6 +33,7 @@ authors:
 author_notes:
   - Principal Investigator
   - PhD Students
+  - Collaborators
 
 ---
 {{< figure src="fiber_detection.gif" caption="HC-ARF geometry detection" >}}
