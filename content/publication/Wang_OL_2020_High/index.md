@@ -6,9 +6,9 @@ authors:
 - A. I. Adamu
 - J. E. Antonio-Lopez
 - Admin
-- R. Amezcua Correa
+- Rodrigo
 - O. Bang
-- C. Markos
+- Christos
 
 #- Robert Ford
 #author_notes:
