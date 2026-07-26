@@ -2,7 +2,7 @@
 title: "Low-loss single-mode hollow-core fiber with anisotropic anti-resonant elements"
 authors:
 - Admin
-- O. Bang
+- Ole
 - M. Bache
 
 #- Robert Ford
