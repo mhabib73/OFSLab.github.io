@@ -2,7 +2,7 @@
 title: "Low-loss hollow-core anti-resonant fibers with semi-circular nested tubes"
 authors:
 - Admin
-- O. Bang
+- Ole
 - M. Bache
 
 
