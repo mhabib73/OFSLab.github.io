@@ -5,7 +5,7 @@ authors:
 - Christos
 - J. E. Lopez
 - Rodrigo
-- O. Bang
+- Ole
 - M. Bache
 
 
