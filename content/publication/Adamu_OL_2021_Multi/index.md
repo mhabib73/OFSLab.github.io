@@ -7,7 +7,7 @@ authors:
 - M. K. Dasa
 - J. E. Lopez
 - Rodrigo
-- O. Bang
+- Ole
 - Christos
 
 #- Robert Ford
