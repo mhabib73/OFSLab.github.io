@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohammad Mahfuz
+title: Mohammad Al Mahfuz
 
 # Full name (for SEO)
 first_name: Mohammad Al 
