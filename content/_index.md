@@ -71,7 +71,7 @@ sections:
     content:
       title: |
       image:
-        filename: HCARF_detection.gif
+        filename: circle_transition_analysis.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <strong >Physics-based AI modeling</strong>
