@@ -9,7 +9,7 @@ authors:
 - A. Schülzgen
 - M. Bache
 - Rodrigo
-- O. Bang
+- Ole
 - Christos
 
 #- Robert Ford
