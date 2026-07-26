@@ -2,7 +2,7 @@
 title: "Low-loss hollow-core silica fibers with adjacent nested anti-resonant tubes"
 authors:
 - Admin
-- O. Bang
+- Ole
 - M. Bache
 
 #- Robert Ford
