@@ -16,6 +16,7 @@ authors:
   - admin
   - Rodrigo
   - Darren
+  - Ole
   - Christos
   - Pawel
 author_notes:
