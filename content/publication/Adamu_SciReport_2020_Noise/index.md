@@ -7,7 +7,7 @@ authors:
 - J. E. Lpoez
 - P. Uhd Jepsen
 - Rodrigo
-- O. Bang
+- Ole
 - Christos
 
 #- Robert Ford
