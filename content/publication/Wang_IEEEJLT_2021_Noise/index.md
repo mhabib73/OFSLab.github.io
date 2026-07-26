@@ -7,7 +7,7 @@ authors:
 - J. E. Lopez
 - Admin
 - Rodrigo
-- O. Bang
+- Ole
 - Christos
 
 #- Robert Ford
