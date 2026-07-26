@@ -3,7 +3,7 @@ title: "Soliton-plasma nonlinear dynamics in mid-IR gas-filled hollow-core fiber
 authors:
 - Admin
 - Christos
-- O. Bang
+- Ole
 - M. Bache
 
 #- Robert Ford
