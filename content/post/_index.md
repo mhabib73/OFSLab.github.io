@@ -18,8 +18,10 @@ sections:
       spacing:
         padding: ["1rem", 0, "2rem", 0]
         margin: [0, 0, 0, 0]
-      view: masonry
-      columns: 1
+      #view: masonry
+      #columns: 1
+      view: showcase
+      columns: 2
       background: 
         color: ""
       show_date: false
