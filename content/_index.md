@@ -136,7 +136,7 @@ sections:
 
   - block: collection
     content:
-      title: '<div style="text-align: left; color: black;">Latest articles</div>'
+      title: '<div style="text-align: left; color: black;">Latest news</div>'
       text: ""
       count: 5
       filters:
