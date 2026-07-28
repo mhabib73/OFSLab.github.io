@@ -31,6 +31,7 @@ authors:
   - Rodrigo
 author_notes:
   - Principal Investigator
+  - Collaborators
 
 ---
 **Funded by:** [Relativity Networks Inc.](https://relativitynetworks.ai/)
