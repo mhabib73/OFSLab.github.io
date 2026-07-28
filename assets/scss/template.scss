@@ -52,12 +52,11 @@
   // height: 300px;
 }
 
-/* Square hero image */
 .custom-hero-size .hero-media img {
   width: 100%;
   aspect-ratio: 1 / 1;
-  object-fit: cover;
-  border-radius: 12px;
+  object-fit: contain;
+  object-position: center;
 }
 
 // screen size of the css_class
