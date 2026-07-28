@@ -145,7 +145,7 @@ sections:
         #publication_type: 'featured-article'
     design:
       view: masonry
-      columns: '2'
+      columns: '1'
       text_align: left
       no_padding: true
       spacing:
