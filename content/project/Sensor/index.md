@@ -26,7 +26,7 @@ author_notes:
   - Principal Investigator
   - Collaborators
 ---
-Funded by: [NASA](https://www.nasa.gov/)
+**Funded by:** [NASA](https://www.nasa.gov/)
 
 <br>
 
