@@ -71,7 +71,7 @@ sections:
     content:
       title: |
       image:
-        filename: circle_transition_SEM.gif
+        filename: circle_transition_SEM_v1.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <strong >Physics-based AI modeling</strong>
