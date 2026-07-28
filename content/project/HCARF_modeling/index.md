@@ -25,7 +25,7 @@ author_notes:
 
 {{< figure src="modes.gif" caption="optical fiber modes" >}}
 
-Funded by: [Relativity Networks Inc.](https://relativitynetworks.ai/)
+**Funded by:** [Relativity Networks Inc.](https://relativitynetworks.ai/)
 
 <br>
 
