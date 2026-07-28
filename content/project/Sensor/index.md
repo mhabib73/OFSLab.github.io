@@ -19,12 +19,13 @@ authors:
   - admin
   - Christos
   - Mahfuz
-  - Pravallika
+  - Sarwar
 author_notes:
-  - Phd Students
-  - Graduate Stduents
   - Principal Investigator
   - Collaborators
+  - PhD Students
+  - Phd Students
+
 ---
 **Funded by:** [NASA](https://www.nasa.gov/)
 
