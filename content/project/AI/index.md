@@ -32,9 +32,10 @@ authors:
   - Daniel
   - Mahfuz
 author_notes:
-  - Principal Investigator
-  - PhD Students
+  - Admin
   - Collaborators
+  - PhD Students
+  - Phd Students
 
 ---
 {{< figure src="circle_transition_analysis.gif" caption="HC-ARF geometry detection" >}}
