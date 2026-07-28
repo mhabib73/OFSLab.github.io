@@ -21,7 +21,7 @@ sections:
       #view: masonry
       #columns: 1
       view: showcase
-      columns: 2
+      columns: 3
       background: 
         color: ""
       show_date: false
