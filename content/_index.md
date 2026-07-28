@@ -134,5 +134,23 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
 
+  - block: collection
+    content:
+      title: '<div style="text-align: left; color: black;">Latest articles</div>'
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - post
+        #publication_type: 'featured-article'
+    design:
+      view: citation
+      columns: '2'
+      text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+        margin: [0, 0, 0, 0]
+
 
 ---
