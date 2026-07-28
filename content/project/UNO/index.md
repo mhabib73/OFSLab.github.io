@@ -23,7 +23,7 @@ author_notes:
   - Principal Investigator
   - Collaborators
 ---
-Funded by: [Florida Tech seed grant](https://www.fit.edu/)
+**Funded by:** [Florida Tech seed grant](https://www.fit.edu/)
 
 <br>
 
