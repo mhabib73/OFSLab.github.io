@@ -144,7 +144,7 @@ sections:
           - post
         #publication_type: 'featured-article'
     design:
-      view: citation
+      view: masonry
       columns: '2'
       text_align: left
       no_padding: true
