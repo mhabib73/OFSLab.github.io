@@ -32,7 +32,7 @@ authors:
   - Daniel
   - Mahfuz
 author_notes:
-  - Admin
+  - Principal Investigator
   - Collaborators
   - PhD Students
   - Phd Students
