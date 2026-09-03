@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ben Stompor
+title: Ryan Cofer
 
 # Full name (for SEO)
 first_name: Ryan
