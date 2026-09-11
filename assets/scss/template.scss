@@ -8,8 +8,6 @@
   justify-content: left;
 }
 
-
-
 /* Bigger navigation bar with logo on left */
 .navbar {
     height: 110px !important;
@@ -27,14 +25,17 @@
 }
 
 .navbar-brand img {
-    height: 800px !important;
-    width: 900px !important;
+    max-height: 90px !important;   /* fixed 800px/900px removed — was breaking mobile */
+    max-width: 100% !important;
+    width: auto !important;
+    height: auto !important;
 }
 
 /* Navigation items on right */
 .navbar-nav {
     order: 2 !important;
     display: flex !important;
+    flex-wrap: wrap !important;
     gap: 1.5rem !important;
 }
 
@@ -45,11 +46,8 @@
 
 // image size control
 .custom-hero-size img {
-  max-width: 250px;  // Adjust as needed
+  max-width: 250px;
   height: 250px;
-  // OR specific width/height
-  // width: 600px;
-  // height: 300px;
 }
 
 .custom-hero-size .hero-media img {
@@ -64,19 +62,11 @@
   height: 75vh;   /* full screen */
 }
 
-@media (max-width: 768px) {
-  .hero-section {
-    height: 70vh;  /* shorter on mobile */
-  }
-}
-
-
 .filter_button {
     background-color: #DBF8FF;
     color: '';
     border: 1px solid #border-color;
 }
-
 
 .project-card {
   max-width: 300px;
@@ -92,16 +82,6 @@
   font-size: 0.3rem;
 }
 
-
-
- // body {
-  // background-color: rgb(247, 250, 252);
-// }
-
-// .dark .article-container {
-  // background-color: rgb(31, 39, 51);
-// }
-
 // custom footer color
 .page-footer {
   background-color: rgb(247, 250, 252);
@@ -116,9 +96,6 @@
   margin-top: 1.8rem;
   border-radius: 15px;
 }
-
-
-
 
 .card {
     position: relative;
@@ -138,8 +115,8 @@
     padding: 1px;
     border-radius: inherit;
     background: linear-gradient(135deg, #6a5cff, #4ac9ff, #6affb3);
-    -webkit-mask: 
-        linear-gradient(#fff 0 0) content-box, 
+    -webkit-mask:
+        linear-gradient(#fff 0 0) content-box,
         linear-gradient(#fff 0 0);
     -webkit-mask-composite: xor;
             mask-composite: exclude;
@@ -150,8 +127,6 @@
 .card:hover::before {
     filter: blur(5px);
 }
-
-
 
 .container:hover > :not(:hover) {
     opacity: 0.3;
@@ -165,4 +140,46 @@
         rgba(0, 0, 0, 0)
     );
     box-shadow: 0 0 18px rgba(90, 130, 255, 0.55);
+}
+
+/* ===================== MOBILE OVERRIDES ===================== */
+@media (max-width: 768px) {
+  .hero-section {
+    height: 70vh;  /* shorter on mobile */
+  }
+
+  .navbar {
+    height: auto !important;
+    min-height: 70px !important;
+    flex-wrap: wrap !important;
+    padding: 0.5rem !important;
+  }
+
+  .navbar-brand img {
+    max-height: 50px !important;
+  }
+
+  .navbar-nav {
+    gap: 0.75rem !important;
+    justify-content: center !important;
+    width: 100%;
+  }
+
+  .nav-link {
+    font-size: 14px !important;
+  }
+
+  .project-card {
+    max-width: 100%;
+  }
+
+  .custom-hero-size img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* hover-scale effects can feel glitchy/stuck on touch devices */
+  .card:hover {
+    transform: none;
+  }
 }
