@@ -35,7 +35,7 @@ author_notes:
 
 ---
 
-{{< figure src="streamline.jpg" caption="power flow streamline" >}}
+{{< figure src="streamline.jpg" caption="power flow streamline" width="70%" >}}
 
 **Funded by:** [Relativity Networks Inc.](https://relativitynetworks.ai/)
 
