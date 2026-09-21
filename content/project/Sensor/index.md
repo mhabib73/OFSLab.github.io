@@ -27,6 +27,9 @@ author_notes:
   - Phd Students
 
 ---
+
+{{< figure src="gas_flow.gif" caption="gas flow inside hollow-core fiber" >}}
+
 **Funded by:** [NASA](https://www.nasa.gov/)
 
 <br>
