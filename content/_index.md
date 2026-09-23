@@ -41,8 +41,8 @@ sections:
     content:
       title: |
       text: |
-        <div style="display: flex; justify-content: space-between; align-items: center; gap: 5rem; flex-wrap: wrap;">
-          <div style="flex: 1; min-width: 280px;">
+        <div style="display: flex; align-items: center; flex-wrap: wrap;">
+          <div style="flex: 0 1 500px;">
             <strong style="font-size: 1.75rem;">What we do in OFS lab?</strong>
             <br>
             <ul style="list-style-type: disc; padding-left: 50px;">
@@ -53,7 +53,7 @@ sections:
               <li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
             </ul>
           </div>
-          <div class="hero-media" style="flex: 1; min-width: 280px; display: flex; gap: 1rem; justify-content: center;">
+          <div class="hero-media" style="display: flex; gap: 1rem; margin-left: 8rem;">
             <img src="/uploads/modes.gif" alt="Modes">
             <img src="/uploads/gas_flow_crop.gif" alt="Gas flow">
           </div>
