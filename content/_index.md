@@ -40,30 +40,27 @@ sections:
   - block: hero
     content:
       title: |
+      image:
+        filename: modes.gif
       text: |
-        <div style="display: flex; align-items: center; flex-wrap: wrap;">
-          <div style="flex: 0 1 500px;">
-            <strong style="font-size: 1.75rem;">What we do in OFS lab?</strong>
-            <br>
-            <ul style="list-style-type: disc; padding-left: 50px;">
-              <li style="font-size: 22px;">Computational fiber photonics</li>
-              <li style="font-size: 22px;">Advanced fiber design and characterization</li>
-              <li style="font-size: 22px;">Energy-efficient and low-cost fiber sensors</li>
-              <li style="font-size: 22px;">Smart fiber-based nonlinear devices</li>
-              <li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
-            </ul>
-          </div>
-          <div class="hero-media" style="display: flex; gap: 3rem; margin-left: 8rem;">
-            <img src="/uploads/modes.gif" alt="Modes">
-            <img src="/uploads/gas_flow_crop.gif" alt="Gas flow">
-          </div>
+        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
+          <strong >What we do in OFS lab?</strong>
+          <br>
+          <ul style="list-style-type: disc; padding-left: 50px;">
+            <li style="font-size: 22px;">Computational fiber photonics</li>
+            <li style="font-size: 22px;">Advanced fiber design and characterization</li>
+            <li style="font-size: 22px;">Energy-efficient and low-cost fiber sensors</li>
+            <li style="font-size: 22px;">Smart fiber-based nonlinear devices</li>
+            <li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
+
+          </ul>
         </div>
 
     design:
       css_class: "custom-hero-size"
       background:
         color: ""
-      columns: '1'
+      columns: '2'
       text_align: left
       no_padding: true
       spacing:
