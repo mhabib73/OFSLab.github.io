@@ -54,8 +54,8 @@ sections:
             </ul>
           </div>
           <div class="hero-media" style="display: flex; gap: 3rem; margin-left: 8rem;">
-            <img src="/uploads/modes.gif" alt="Modes" style="background-color: #f0f0f0; border-radius: 8px; padding: 0.5rem;">
-            <img src="/uploads/gas_flow_crop.gif" alt="Gas flow" style="background-color: #f0f0f0; border-radius: 8px; padding: 0.5rem;">
+            <img src="/uploads/modes.gif" alt="Modes">
+            <img src="/uploads/gas_flow_crop.gif" alt="Gas flow">
           </div>
         </div>
 
