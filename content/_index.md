@@ -53,7 +53,7 @@ sections:
               <li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
             </ul>
           </div>
-          <div class="hero-media" style="display: flex; gap: 1rem; margin-left: 8rem;">
+          <div class="hero-media" style="display: flex; gap: 3rem; margin-left: 8rem;">
             <img src="/uploads/modes.gif" alt="Modes">
             <img src="/uploads/gas_flow_crop.gif" alt="Gas flow">
           </div>
