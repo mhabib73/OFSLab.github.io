@@ -41,9 +41,9 @@ sections:
     content:
       title: |
       text: |
-        <div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem; flex-wrap: wrap;">
+        <div style="display: flex; justify-content: space-between; align-items: center; gap: 5rem; flex-wrap: wrap;">
           <div style="flex: 1; min-width: 280px;">
-            <strong style="font-size: 20px;">What we do in OFS lab?</strong>
+            <strong style="font-size: 1.75rem;">What we do in OFS lab?</strong>
             <br>
             <ul style="list-style-type: disc; padding-left: 50px;">
               <li style="font-size: 22px;">Computational fiber photonics</li>
