@@ -40,11 +40,13 @@ sections:
   - block: hero
     content:
       title: |
-      image:
-        filename: modes.gif
       text: |
+        <div style="display: flex; justify-content: center; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+          <img src="modes.gif" alt="Modes" style="max-width: 250px; width: 100%; height: auto; border-radius: 8px;">
+          <img src="gas_flow_crop.gif" alt="Gas flow" style="max-width: 250px; width: 100%; height: auto; border-radius: 8px;">
+        </div>
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
-          <strong >What we do in OFS lab?</strong>
+          <strong>What we do in OFS lab?</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
             <li style="font-size: 22px;">Computational fiber photonics</li>
@@ -52,7 +54,6 @@ sections:
             <li style="font-size: 22px;">Energy-efficient and low-cost fiber sensors</li>
             <li style="font-size: 22px;">Smart fiber-based nonlinear devices</li>
             <li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
-
           </ul>
         </div>
 
@@ -60,7 +61,7 @@ sections:
       css_class: "custom-hero-size"
       background:
         color: ""
-      columns: '2'
+      columns: '1'
       text_align: left
       no_padding: true
       spacing:
