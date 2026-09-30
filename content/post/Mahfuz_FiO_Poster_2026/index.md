@@ -1,6 +1,6 @@
 ---
 title: Mohammad presented his work at FiO conference
-date: 2026-09-29
+date: 2026-09-27
 image:
   focal_point: 'top'
 
