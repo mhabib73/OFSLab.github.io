@@ -144,8 +144,7 @@ sections:
           - post
         #publication_type: 'featured-article'
     design:
-      #view: showcase
-      view: masonry
+      view: showcase
       columns: '1'
       text_align: left
       no_padding: true
