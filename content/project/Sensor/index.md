@@ -28,7 +28,7 @@ author_notes:
 
 ---
 
-{{< figure src="gas_flow.gif" caption="gas flow inside hollow-core fiber" >}}
+{{< figure src="gas_flow_3D.gif" caption="gas flow inside hollow-core fiber" >}}
 
 **Funded by:** [NASA](https://www.nasa.gov/)
 
