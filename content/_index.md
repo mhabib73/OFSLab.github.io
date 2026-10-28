@@ -69,6 +69,42 @@ sections:
         margin: [0, 0, 0, 0]
 
   - block: hero
+  content:
+    title: ""
+    text: |
+      <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; margin-bottom: 1rem;">
+        <img src="/media/HCF_gas_GIF_transparent.gif"
+             alt="Gas molecules guided along the light beam in a hollow-core fiber"
+             style="flex: 1 1 300px; max-width: 48%; height: auto;">
+        <img src="/media/HCF_gas_GIF.gif"
+             alt="Hollow-core fiber gas sensing, silver-glass on dark background"
+             style="flex: 1 1 300px; max-width: 48%; height: auto;">
+      </div>
+
+      <div style="text-align: left; font-size: 20px; max-width: 1500px; margin: 0 auto;">
+        <strong>What we do in OFS lab?</strong>
+        <br>
+        <ul style="list-style-type: disc; padding-left: 50px;">
+          <li style="font-size: 22px;">Computational fiber photonics</li>
+          <li style="font-size: 22px;">Advanced fiber design and characterization</li>
+          <li style="font-size: 22px;">Energy-efficient and low-cost fiber sensors</li>
+          <li style="font-size: 22px;">Smart fiber-based nonlinear devices</li>
+          <li style="font-size: 22px;">Extreme light-matter interactions in fibers</li>
+        </ul>
+      </div>
+
+  design:
+    css_class: "custom-hero-size"
+    background:
+      color: ""
+    columns: '1'
+    text_align: left
+    no_padding: true
+    spacing:
+      padding: ["1rem", 1, "1rem", 0]
+      margin: [0, 0, 0, 0]
+
+  - block: hero
     content:
       title: |
       image:
