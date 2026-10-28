@@ -26,7 +26,8 @@ sections:
       background:
         color: ""
         image:
-          filename: banner_fiber.png
+          #filename: banner_fiber.png
+          filenemame: HCF_gas_GIF_transparent.gif
           filters:
             brightness: 1
           position: center
