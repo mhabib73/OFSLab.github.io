@@ -69,17 +69,17 @@ sections:
         margin: [0, 0, 0, 0]
 
   - block: hero
-  content:
-    title: ""
-    text: |
-      <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; margin-bottom: 1rem;">
-        <img src="/media/HCF_gas_GIF_transparent.gif"
+    content:
+      title: ""
+      text: |
+        <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; margin-bottom: 1rem;">
+          <img src="/media/HCF_gas_GIF_transparent.gif"
              alt="Gas molecules guided along the light beam in a hollow-core fiber"
              style="flex: 1 1 300px; max-width: 48%; height: auto;">
-        <img src="/media/HCF_gas_GIF.gif"
+          <img src="/media/HCF_gas_GIF.gif"
              alt="Hollow-core fiber gas sensing, silver-glass on dark background"
              style="flex: 1 1 300px; max-width: 48%; height: auto;">
-      </div>
+        </div>
 
       <div style="text-align: left; font-size: 20px; max-width: 1500px; margin: 0 auto;">
         <strong>What we do in OFS lab?</strong>
