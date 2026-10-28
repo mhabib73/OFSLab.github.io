@@ -42,7 +42,7 @@ sections:
       title: |
       image:
         #filename: modes.gif
-        filename: HCF_gas_GIF.gif
+        filename: HCF_gas_GIF_transparent.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <strong >What we do in OFS lab?</strong>
