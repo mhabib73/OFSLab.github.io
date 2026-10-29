@@ -104,7 +104,7 @@ sections:
       image:
         filename: HCF_gas_GIF_transparent.gif
       text: |
-        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
+        <div style="text-align: font-size: 20px; left; max-width: 1700px; margin: 0 auto;">
           <strong >Gas-based fiber photonics</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
