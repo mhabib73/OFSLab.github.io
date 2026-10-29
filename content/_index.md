@@ -27,7 +27,6 @@ sections:
         color: ""
         image:
           filename: banner_fiber.png
-          #filenemame: HCF_gas_GIF_transparent.gif
           filters:
             brightness: 1
           position: center
@@ -43,7 +42,6 @@ sections:
       title: |
       image:
         filename: HCARF_modes_final.gif
-        #filename: HCF_gas_GIF_transparent.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <strong >What we do in OFS lab?</strong>
@@ -79,7 +77,6 @@ sections:
           <strong >Physics-based AI modeling</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
-            
             <li style="font-size: 22px;">Physics-guided machine learning</li>
             <li style="font-size: 22px;">AI-driven fiber geometry optimization</li>
             <li style="font-size: 22px;">Simulation and experimental validation</li>
@@ -105,7 +102,6 @@ sections:
     content:
       title: |
       image:
-        #filename: modes.gif
         filename: HCF_gas_GIF_transparent.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
