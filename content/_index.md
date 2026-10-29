@@ -42,8 +42,8 @@ sections:
     content:
       title: |
       image:
-        #filename: modes.gif
-        filename: HCF_gas_GIF_transparent.gif
+        filename: modes.gif
+        #filename: HCF_gas_GIF_transparent.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
           <strong >What we do in OFS lab?</strong>
@@ -98,6 +98,39 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
         margin: [0, 0, 0, 0]
+
+
+  - block: hero
+    content:
+      title: |
+      image:
+        #filename: modes.gif
+        filename: HCF_gas_GIF_transparent.gif
+      text: |
+        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
+          <strong >Gas-filled fiber photonics</strong>
+          <br>
+          <ul style="list-style-type: disc; padding-left: 50px;">
+            <li style="font-size: 22px;">Laser absorption spectroscopy in hollow-core fibers</li>
+            <li style="font-size: 22px;">Trace-gas detection (CH₄, CO₂, NH₃, N₂O)</li>
+            <li style="font-size: 22px;">Gas filling, flow dynamics and response time</li>
+            <li style="font-size: 22px;">Stimulated Raman scattering in gas-filled fibers</li>
+            <li style="font-size: 22px;">Mid-infrared light generation and sensing</li>
+
+          </ul>
+        </div>
+
+    design:
+      css_class: "custom-hero-size"
+      background:
+        color: ""
+      columns: '2'
+      text_align: left
+      no_padding: true
+      spacing:
+        padding: ["1rem", 1, "1rem", 0]
+        margin: [0, 0, 0, 0]
+
 
   - block: markdown
     content:
