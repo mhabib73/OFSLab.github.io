@@ -83,7 +83,7 @@ sections:
             <li style="font-size: 22px;">Physics-guided machine learning</li>
             <li style="font-size: 22px;">AI-driven fiber geometry optimization</li>
             <li style="font-size: 22px;">Simulation and experimental validation</li>
-            <li style="font-size: 22px;">Inverse design of hollow-core fibers</li>
+            <li style="font-size: 22px;">State-of-the-art hollow-core fiber design</li>
 
           </ul>
         </div>
