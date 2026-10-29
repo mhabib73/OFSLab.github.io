@@ -42,7 +42,7 @@ sections:
     content:
       title: |
       image:
-        filename: modes.gif
+        filename: HCARF_modes_final.gif
         #filename: HCF_gas_GIF_transparent.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
