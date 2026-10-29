@@ -108,7 +108,7 @@ sections:
         filename: HCF_gas_GIF_transparent.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
-          <strong >Gas-filled fiber photonics</strong>
+          <strong >Gas-based fiber photonics</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
             <li style="font-size: 22px;">Laser absorption spectroscopy in hollow-core fibers</li>
