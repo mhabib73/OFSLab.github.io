@@ -26,7 +26,8 @@ sections:
       background:
         color: ""
         image:
-          filename: banner_fiber_v1.png
+          #filename: banner_fiber_v1.png
+          filename: OFS_lab_banner.png
           filters:
             brightness: 1
           position: center
