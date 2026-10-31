@@ -44,7 +44,7 @@ sections:
       image:
         filename: HCARF_modes_final.gif
       text: |
-        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
+        <div style="text-align: font-size: 20px; left; max-width: 1800px; margin: 0 auto;">
           <strong >What we do in OFS lab?</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
@@ -74,7 +74,7 @@ sections:
       image:
         filename: circle_transition_SEM_v1.gif
       text: |
-        <div style="text-align: font-size: 20px; left; max-width: 1500px; margin: 0 auto;">
+        <div style="text-align: font-size: 20px; left; max-width: 1800px; margin: 0 auto;">
           <strong >Physics-based AI modeling</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
@@ -105,7 +105,7 @@ sections:
       image:
         filename: HCF_gas_GIF_transparent.gif
       text: |
-        <div style="text-align: font-size: 20px; left; max-width: 1700px; margin: 0 auto;">
+        <div style="text-align: font-size: 20px; left; max-width: 1800px; margin: 0 auto;">
           <strong >Gas-based fiber photonics</strong>
           <br>
           <ul style="list-style-type: disc; padding-left: 50px;">
