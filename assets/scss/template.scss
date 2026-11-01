@@ -59,16 +59,16 @@
 
 // screen size of the css_class
 .hero-section {
-  height: 75vh;   /* full screen */
+  height: 70vh;   /* full screen */
 }
 
 /* Banner height */
 .hero-section {
-  min-height: 650px;
+  min-height: 600px;
   padding: 0 !important;
 }
 
-/* Banner image framing * THIS IS VERY IMPORTANT/
+/* Banner image framing: THIS IS VERY IMPORTANT*/
 .hero-section .home-section-bg {
   background-size: contain !important;
   background-position: center center !important;
