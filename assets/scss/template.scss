@@ -44,6 +44,30 @@
     padding: 1.5px 1.5px !important;
 }
 
+
+
+/* Navigation background */
+#navbar-main {
+  background-color: #071b30 !important;
+  box-shadow: none !important;
+}
+
+/* Menu links and icons */
+#navbar-main .nav-link,
+#navbar-main .navbar-brand,
+#navbar-main .navbar-toggler {
+  color: #ffffff !important;
+}
+
+/* Hover and selected menu item */
+#navbar-main .nav-link:hover,
+#navbar-main .nav-link.active {
+  color: #59c8ff !important;
+}
+
+
+
+
 // image size control
 .custom-hero-size img {
   max-width: 250px;
