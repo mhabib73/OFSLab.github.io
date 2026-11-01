@@ -45,6 +45,13 @@ sections:
         <br><br>
         We welcome collaborations with academic groups, industry partners, and students interested in shaping the next generation of photonic technologies.
 
+    design:
+      css_class: "custom-hero-size"
+      no_padding: true
+      spacing:
+        padding: ["1rem", 1, "1rem", 0]
+        margin: [0, 0, 0, 0]
+
   - block: hero
     content:
       title: |
