@@ -78,7 +78,20 @@
   object-position: center;
 }
 
+
 // screen size of the css_class
+
+
+.hero-section.animated-banner {
+  background-image: url("/uploads/OFS_lab_banner.gif") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: scroll !important;
+}
+
+
+
 .hero-section {
   height: 70vh;   /* full screen */
 }
