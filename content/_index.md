@@ -49,7 +49,7 @@ sections:
       css_class: "custom-hero-size"
       no_padding: true
       spacing:
-        padding: ["1rem", 1, "1rem", 0]
+        padding: ["0.5rem", 1, "0.5rem", 0]
         margin: [0, 0, 0, 0]
 
   - block: hero
