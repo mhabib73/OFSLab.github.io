@@ -19,26 +19,12 @@ sections:
 
         
     design:
-      column: "1"
-      alignment:
-        horizontal: center
-        vertical: middle
+      css_class: hero-section animated-banner
       background:
-        color: ""
-        image:
-          #filename: banner_fiber_v1.png
-          #filename: OFS_lab_banner_v3.png
-          filename: OFS_lab_banner.gif
-          filters:
-            brightness: 1
-          position: center
-          parallax: true
-          size: cover
-      css_class: hero-section
-      #css_class: fullscreen
-      #spacing:
-        #padding: ["0", "0", "1rem", "0"]
-        #margin: ["0", "0", "1rem", "0"]
+        color: "#071b30"
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]
 
   - block: hero
     content:
