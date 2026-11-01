@@ -1,142 +1,135 @@
-// Make page header alignment consistent with widget page header alignment
+/* ===================== GENERAL ===================== */
+
 .universal-wrapper h1 {
   text-align: left;
 }
 
-// Center the CTA shortcode button
 .cta-group {
-  justify-content: left;
+  justify-content: flex-start;
 }
 
-/* Bigger navigation bar with logo on left*/
-.navbar {
-    height: 110px !important;
-    min-height: 110px !important;
-    display: flex !important;
-    justify-content: space-between !important;
-    align-items: center !important;
-    padding: 0 0.1em !important;
-}
+/* ===================== NAVIGATION ===================== */
 
-/* Logo on left */
-.navbar-brand {
-    order: 1 !important;
-    margin-left: auto !important;
-}
-
-.navbar-brand img {
-    max-height: 90px !important;   /* fixed 800px/900px removed — was breaking mobile */
-    max-width: 100% !important;
-    width: auto !important;
-    height: auto !important;
-}
-
-/* Navigation items on right */
-.navbar-nav {
-    order: 2 !important;
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 1.5rem !important;
-}
-
-.nav-link {
-    font-size: 16.5px !important;
-    padding: 1.5px 1.5px !important;
-}
-
-
-
-/* Navigation background */
 #navbar-main {
+  height: auto !important;
+  min-height: 110px !important;
+  padding: 8px 16px !important;
   background-color: #071b30 !important;
   box-shadow: none !important;
 }
 
-/* Menu links and icons */
-#navbar-main .nav-link,
-#navbar-main .navbar-brand,
-#navbar-main .navbar-toggler {
-  color: #ffffff !important;
+#navbar-main > .container-xl {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
 }
 
-/* Hover and selected menu item */
+#navbar-main .navbar-brand {
+  margin: 0 24px 0 0 !important;
+  padding: 0;
+}
+
+#navbar-main .navbar-brand img {
+  display: block;
+  width: auto !important;
+  height: auto !important;
+  max-height: 90px !important;
+  max-width: 280px !important;
+}
+
+#navbar-main .navbar-nav {
+  gap: 1rem;
+}
+
+#navbar-main .nav-link {
+  color: #ffffff !important;
+  font-size: 16.5px !important;
+  padding: 8px 6px !important;
+}
+
+#navbar-main .navbar-toggler {
+  color: #ffffff !important;
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
 #navbar-main .nav-link:hover,
 #navbar-main .nav-link.active {
   color: #59c8ff !important;
 }
 
-// image size control
-.custom-hero-size img {
-  max-width: 250px;
-  height: 250px;
+/* ===================== ANIMATED BANNER ===================== */
+
+.hero-section {
+  height: 70vh;
+  min-height: 600px;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-.custom-hero-size .hero-media img {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: contain;
-  object-position: center;
+.hero-section.animated-banner {
+  background-image: none !important;
 }
 
-
-// screen size of the css_class
-
-
-/* Put the banner GIF on the visible background layer */
 .hero-section.animated-banner > .home-section-bg {
   background-image: url("/uploads/OFS_lab_banner_blue.gif") !important;
+  background-color: #071b30 !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-attachment: scroll !important;
 }
 
-/* Remove the previous image underneath */
-.hero-section.animated-banner {
-  background-image: none !important;
+/* ===================== HERO FIGURES ===================== */
+
+.custom-hero-size img {
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
 }
 
-
-
-.hero-section {
-  height: 70vh;   /* full screen */
+.custom-hero-size .hero-media img {
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  object-position: center;
 }
 
-/* Banner height */
-.hero-section {
-  min-height: 600px;
-  padding: 0 !important;
-}
-
-/* Banner image framing: THIS IS VERY IMPORTANT*/
-.hero-section .home-section-bg {
-  background-size: contain !important;
-  background-position: center center !important;
-  background-repeat: no-repeat !important;
-}
-
-/* Smaller screens */
-@media (max-width: 768px) {
-  .hero-section {
-    min-height: 300px;
-  }
-}
+/* ===================== RESEARCH FILTERS ===================== */
 
 .filter_button {
-    background-color: #DBF8FF;
-    color: '';
-    border: 1px solid #border-color;
+  background-color: #dbf8ff;
+  color: #071b30;
+  border: 1px solid #bddce5;
 }
+
+#portfolio .btn-toolbar {
+  margin-bottom: 20px;
+}
+
+#portfolio .btn-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100%;
+}
+
+/* Allow long category names to wrap */
+#portfolio .btn-group .btn {
+  white-space: normal;
+}
+
+/* ===================== PROJECT CARDS ===================== */
 
 .project-card {
   max-width: 400px;
   padding: 0.5px;
   margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
-
-
-/* Keep the card content aligned at the top */
 .project-card .card {
   box-sizing: border-box;
 }
@@ -144,16 +137,61 @@
 .project-card img {
   display: block;
   width: 100%;
-  height: 200px !important;
+  height: 230px !important;
   object-fit: contain !important;
   object-position: center;
 }
 
 .project-card .article-style {
-  font-size: 0.3rem;
+  font-size: 1rem;
+  line-height: 1.65;
+  overflow-wrap: break-word;
 }
 
-// custom footer color
+/* ===================== CARD APPEARANCE ===================== */
+
+.card-simple {
+  margin-top: 1.8rem;
+  border-radius: 15px;
+}
+
+.card {
+  position: relative;
+  padding: 1rem;
+  border-radius: 15px;
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  z-index: 1;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 1px;
+  border-radius: inherit;
+  background: linear-gradient(135deg, #6a5cff, #4ac9ff, #6affb3);
+
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Hover effects only on devices with a mouse */
+@media (hover: hover) and (pointer: fine) {
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 0 18px rgba(90, 130, 255, 0.35);
+  }
+}
+
+/* ===================== FOOTER ===================== */
+
 .page-footer {
   background-color: rgb(247, 250, 252);
 }
@@ -162,95 +200,135 @@
   background-color: rgb(26, 32, 44);
 }
 
-// more rounded cards and larger gap between cards
-.card-simple {
-  margin-top: 1.8rem;
-  border-radius: 15px;
-}
+/* ===================== MOBILE NAVIGATION ===================== */
+/* Matches your theme's navbar-expand-lg breakpoint */
 
-.card {
-    position: relative;
-    padding: 1rem;
-    border-radius: 15px;
-    overflow: hidden;
-    cursor: pointer;
-    transition: 0.5s ease;
-    z-index: 1;
-}
-
-/* glow border */
-.card::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    padding: 1px;
-    border-radius: inherit;
-    background: linear-gradient(135deg, #6a5cff, #4ac9ff, #6affb3);
-    -webkit-mask:
-        linear-gradient(#fff 0 0) content-box,
-        linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-            mask-composite: exclude;
-    z-index: -1;
-}
-
-/* hover boost */
-.card:hover::before {
-    filter: blur(5px);
-}
-
-.container:hover > :not(:hover) {
-    opacity: 0.3;
-}
-
-.card:hover {
-    transform: scale(1.1);
-    background: radial-gradient(
-        circle at center,
-        rgba(90, 130, 255, 0.35),
-        rgba(0, 0, 0, 0)
-    );
-    box-shadow: 0 0 18px rgba(90, 130, 255, 0.55);
-}
-
-/* ===================== MOBILE OVERRIDES ===================== */
-@media (max-width: 768px) {
-  .hero-section {
-    height: 70vh;  /* shorter on mobile */
+@media (max-width: 991.98px) {
+  #navbar-main {
+    min-height: 76px !important;
+    padding: 8px 12px !important;
   }
 
-  .navbar {
-    height: auto !important;
-    min-height: 70px !important;
-    flex-wrap: wrap !important;
-    padding: 0.5rem !important;
+  /* Logo first, menu button second, search third */
+  #navbar-main .navbar-brand-mobile-wrapper {
+    order: 1;
+    flex: 1 1 0;
+    min-width: 0;
   }
 
-  .navbar-brand img {
-    max-height: 50px !important;
+  #navbar-main .navbar-brand {
+    margin: 0 12px 0 0 !important;
   }
 
-  .navbar-nav {
-    gap: 0.75rem !important;
-    justify-content: center !important;
+  #navbar-main .navbar-brand img {
+    max-height: 60px !important;
+    max-width: min(220px, 55vw) !important;
+  }
+
+  #navbar-main .navbar-toggler {
+    order: 2;
+    flex-shrink: 0;
+    margin-left: auto;
+    padding: 8px 10px;
+  }
+
+  #navbar-main .nav-icons {
+    order: 3;
+    flex: 0 0 auto;
+    margin-left: 8px !important;
+  }
+
+  /* Expanded menu sits below the logo */
+  #navbar-main #navbar-content {
+    order: 4;
+    flex-basis: 100%;
     width: 100%;
   }
 
-  .nav-link {
-    font-size: 14px !important;
+  #navbar-main #navbar-content .navbar-nav {
+    display: flex !important;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    width: 100%;
+    padding: 8px 0;
   }
 
-  .project-card {
+  #navbar-main #navbar-content .nav-link {
+    font-size: 16px !important;
+    padding: 12px 8px !important;
+  }
+}
+
+/* ===================== PHONES ===================== */
+
+@media (max-width: 767.98px) {
+  /* Match the wide banner proportions instead of using 70vh */
+  .hero-section {
+    height: auto !important;
+    min-height: 0 !important;
+    aspect-ratio: 3 / 1;
+  }
+
+  /* Display the whole GIF */
+  .hero-section.animated-banner > .home-section-bg {
+    background-size: contain !important;
+    background-position: center !important;
+  }
+
+  /* Reduce excessive side margins */
+  #portfolio > .container {
+    width: 100%;
     max-width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  /* One full-width project card per row */
+  #portfolio .project-card {
+    width: 100% !important;
+    max-width: none !important;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+
+  .project-card .card {
+    padding: 12px;
+  }
+
+  /* Show complete figures at their natural proportions */
+  .project-card img {
+    height: auto !important;
+    max-height: none !important;
+    object-fit: contain !important;
+  }
+
+  .project-card .card-body {
+    padding: 16px;
+  }
+
+  .project-card .card-title {
+    font-size: 1.2rem;
+    line-height: 1.35;
+  }
+
+  .project-card .article-style {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  #portfolio .btn-group .btn {
+    font-size: 14px;
+    padding: 8px 10px;
   }
 
   .custom-hero-size img {
-    max-width: 100%;
-    height: auto;
+    width: 100%;
+    max-width: 300px;
+    height: auto !important;
   }
 
-  /* hover-scale effects can feel glitchy/stuck on touch devices */
   .card:hover {
-    transform: none;
+    transform: none !important;
   }
 }
