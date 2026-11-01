@@ -70,7 +70,7 @@
 
 /* Banner image framing */
 .hero-section .home-section-bg {
-  background-size: cover !important;
+  background-size: contain !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
 }
@@ -92,12 +92,12 @@
 }
 
 .project-card {
-  max-width: 350px;
+  max-width: 320px;
   padding: .5px;
 }
 
 .project-card img {
-  height: 90px;
+  height: 70px;
   object-fit: cover;
 }
 
