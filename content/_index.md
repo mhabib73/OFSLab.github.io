@@ -36,7 +36,7 @@ sections:
       css_class: hero-section
       #css_class: fullscreen
       spacing:
-        padding: [0, 0, "1em", 0]
+        padding: [0, 0, 0, 0]
 
   - block: hero
     content:
