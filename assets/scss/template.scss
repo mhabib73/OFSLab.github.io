@@ -8,7 +8,7 @@
   justify-content: left;
 }
 
-/* Bigger navigation bar with logo on left */
+/* Bigger navigation bar with logo on left*/
 .navbar {
     height: 110px !important;
     min-height: 110px !important;
@@ -57,10 +57,7 @@
   object-position: center;
 }
 
-// screen size of the css_class
-.hero-section {
-  height: 75vh;   /* full screen */
-}
+
 
 /* Banner height */
 .hero-section {
@@ -68,7 +65,7 @@
   padding: 0 !important;
 }
 
-/* Banner image framing */
+/* Banner image framing * THIS IS VERY IMPORTANT/
 .hero-section .home-section-bg {
   background-size: contain !important;
   background-position: center center !important;
