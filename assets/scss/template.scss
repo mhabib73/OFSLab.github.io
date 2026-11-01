@@ -116,7 +116,6 @@
   max-width: 100%;
 }
 
-/* Allow long category names to wrap */
 #portfolio .btn-group .btn {
   white-space: normal;
 }
@@ -170,7 +169,12 @@
   inset: 0;
   padding: 1px;
   border-radius: inherit;
-  background: linear-gradient(135deg, #6a5cff, #4ac9ff, #6affb3);
+  background: linear-gradient(
+    135deg,
+    #6a5cff,
+    #4ac9ff,
+    #6affb3
+  );
 
   -webkit-mask:
     linear-gradient(#fff 0 0) content-box,
@@ -182,7 +186,7 @@
   z-index: -1;
 }
 
-/* Hover effects only on devices with a mouse */
+/* Hover effects for devices with a mouse */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {
     transform: translateY(-4px);
@@ -201,7 +205,7 @@
 }
 
 /* ===================== MOBILE NAVIGATION ===================== */
-/* Matches your theme's navbar-expand-lg breakpoint */
+/* Matches the theme's navbar-expand-lg breakpoint */
 
 @media (max-width: 991.98px) {
   #navbar-main {
@@ -209,7 +213,7 @@
     padding: 8px 12px !important;
   }
 
-  /* Logo first, menu button second, search third */
+  /* Mobile logo on the left */
   #navbar-main .navbar-brand-mobile-wrapper {
     order: 1;
     flex: 1 1 0;
@@ -220,11 +224,16 @@
     margin: 0 12px 0 0 !important;
   }
 
+  /* Compatible with the older Hugo Sass compiler */
   #navbar-main .navbar-brand img {
+    width: 55vw !important;
+    max-width: 220px !important;
+    height: auto !important;
     max-height: 60px !important;
-    max-width: min(220px, 55vw) !important;
+    object-fit: contain;
   }
 
+  /* Menu button */
   #navbar-main .navbar-toggler {
     order: 2;
     flex-shrink: 0;
@@ -232,13 +241,14 @@
     padding: 8px 10px;
   }
 
+  /* Search icon */
   #navbar-main .nav-icons {
     order: 3;
     flex: 0 0 auto;
     margin-left: 8px !important;
   }
 
-  /* Expanded menu sits below the logo */
+  /* Expanded navigation below the logo */
   #navbar-main #navbar-content {
     order: 4;
     flex-basis: 100%;
@@ -263,20 +273,20 @@
 /* ===================== PHONES ===================== */
 
 @media (max-width: 767.98px) {
-  /* Match the wide banner proportions instead of using 70vh */
+  /* Wide banner proportions on mobile */
   .hero-section {
     height: auto !important;
     min-height: 0 !important;
     aspect-ratio: 3 / 1;
   }
 
-  /* Display the whole GIF */
+  /* Show the complete animated banner */
   .hero-section.animated-banner > .home-section-bg {
     background-size: contain !important;
     background-position: center !important;
   }
 
-  /* Reduce excessive side margins */
+  /* Reduce research-section side margins */
   #portfolio > .container {
     width: 100%;
     max-width: 100%;
@@ -284,7 +294,7 @@
     padding-right: 16px;
   }
 
-  /* One full-width project card per row */
+  /* One project card per row */
   #portfolio .project-card {
     width: 100% !important;
     max-width: none !important;
@@ -296,7 +306,7 @@
     padding: 12px;
   }
 
-  /* Show complete figures at their natural proportions */
+  /* Complete project images without cropping */
   .project-card img {
     height: auto !important;
     max-height: none !important;
@@ -328,6 +338,7 @@
     height: auto !important;
   }
 
+  /* Prevent enlargement on touch screens */
   .card:hover {
     transform: none !important;
   }
