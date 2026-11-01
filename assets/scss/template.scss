@@ -62,6 +62,29 @@
   height: 75vh;   /* full screen */
 }
 
+/* Banner height */
+.hero-section {
+  min-height: 550px;
+  padding: 0 !important;
+}
+
+/* Banner image framing */
+.hero-section .home-section-bg {
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Smaller screens */
+@media (max-width: 768px) {
+  .hero-section {
+    min-height: 300px;
+  }
+}
+
+
+
+
 .filter_button {
     background-color: #DBF8FF;
     color: '';
@@ -69,12 +92,12 @@
 }
 
 .project-card {
-  max-width: 300px;
+  max-width: 270px;
   padding: .5px;
 }
 
 .project-card img {
-  height: 90px;
+  height: 80px;
   object-fit: cover;
 }
 
