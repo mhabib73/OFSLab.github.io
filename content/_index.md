@@ -35,8 +35,8 @@ sections:
           size: cover
       css_class: hero-section
       #css_class: fullscreen
-      #spacing:
-        #padding: ["1rem", 0, "1em", 0]
+      spacing:
+        padding: [0, 0, "1em", 0]
 
   - block: hero
     content:
