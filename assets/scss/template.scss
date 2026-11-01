@@ -82,12 +82,18 @@
 // screen size of the css_class
 
 
-.hero-section.animated-banner {
-  background-image: url("/uploads/modes.gif") !important;
+/* Put the banner GIF on the visible background layer */
+.hero-section.animated-banner > .home-section-bg {
+  background-image: url("/uploads/OFS_lab_banner.gif") !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-attachment: scroll !important;
+}
+
+/* Remove the previous image underneath */
+.hero-section.animated-banner {
+  background-image: none !important;
 }
 
 
