@@ -15,7 +15,7 @@
     display: flex !important;
     justify-content: space-between !important;
     align-items: center !important;
-    padding: 0 .1rem !important;
+    padding: 0 0.1rem !important;
 }
 
 /* Logo on left */
@@ -64,7 +64,7 @@
 
 /* Banner height */
 .hero-section {
-  min-height: 600px;
+  min-height: 650px;
   padding: 0 !important;
 }
 
@@ -81,9 +81,6 @@
     min-height: 300px;
   }
 }
-
-
-
 
 .filter_button {
     background-color: #DBF8FF;
