@@ -27,7 +27,7 @@ publication_types: ["featured-article"]
 publication: "US Patent Application (Pending) (2026)"
 publication_short: ""
 
-abstract: 
+abstract: An optical fiber including a cladding structure, a first anti-resonant (AR) element and a second AR element is disclosed. The cladding structure extends along a fiber length providing a hollow interior fiber region. The first and second AR elements are distributed within the hollow interior fiber region. The first AR element and the second AR element are formed as walled structures with one or more walls extending along the fiber length. Further, the first AR element and the second AR element touch each other at an intersection wall portion, and the intersection wall portion is engineered to have an engineered thickness.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
