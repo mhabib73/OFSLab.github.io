@@ -26,7 +26,7 @@ publication_types: ["featured-article"]
 publication: "US Patent Application (Pending) (2026)"
 publication_short: ""
 
-abstract: 
+abstract: An optical fiber including a cladding structure extending along a fiber length providing a hollow interior fiber region is disclosed. The cladding structure includes one or more sets of grouped anti-resonant (AR) elements distributed within the hollow interior fiber region, configured to guide light along the fiber length in a central portion of the interior fiber region. The set of grouped AR elements includes a first AR element disposed on the interior surface of the cladding structure, a support structure disposed on an interior surface of the first AR element, and a second AR element disposed on the support structure. The second AR element is rotated such that a first center line connecting center points of the second AR element and the support structure is offset by a non-zero angle relative to a second center line connecting the centers of the first AR element and the interior fiber region.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
