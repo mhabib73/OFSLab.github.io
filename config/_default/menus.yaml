@@ -10,32 +10,29 @@ main:
   - name: People
     url: people
     weight: 20
-  #- name: Research
-    #url: project
-    #weight: 30
+  - name: Research
+    url: research
+    weight: 30
   - name: Publications
     url: publication
     weight: 40
+  - name: Patents
+    url: Patent
+    weight: 50
   - name: News
     url: post
-    weight: 50
+    weight: 60
   #- name: Events
     #url: event
     #weight: 50
   - name: Contact
     url: contact
-    weight: 60
-  #- name: CV
-    #url: "uploads/cv.pdf"
-    #weight: 70
+    weight: 70
 
-  #- name: Latest
-    #url: latest
-    #weight: 70
 
-  - name: Research
-    url: research
-    weight: 30
+    
+
+
 
 
 
