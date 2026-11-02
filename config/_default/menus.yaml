@@ -17,7 +17,7 @@ main:
     url: publication
     weight: 40
   - name: Patents
-    url: Patent
+    url: patent
     weight: 50
   - name: News
     url: post
