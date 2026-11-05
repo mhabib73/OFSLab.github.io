@@ -36,7 +36,7 @@ sections:
         </div>
           
       text: |
-        We investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate
+        In Optical Fiber Science (OFS) lab, we investigate next-generation optical fiber technologies that redefine how light travels. Our work centers on innovative hollow-core fibers: engineered with microscopic air channels that let light propagate
         faster, over longer distances, and with exceptionally low loss. Through advanced microstructured designs, we aim to achieve ultra-low transmission loss, minimal latency, and broad bandwidth, opening new
         possibilities for the future of high-speed communication, data networks, and beyond.
         <br><br>
