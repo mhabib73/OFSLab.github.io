@@ -57,7 +57,7 @@ sections:
       title: |
       image:
         #filename: HCARF_modes_final.gif
-        filename: HCARF_polarization_transparent.gif
+        filename: HCARF_polarization.gif
       text: |
         <div style="text-align: font-size: 20px; left; max-width: 1800px; margin: 0 auto;">
           <strong >What we do in OFS lab?</strong>
